@@ -24,6 +24,13 @@ public:
 	FTimerHandle timeHandle;
 	float countdownTime;
 	float distance = 100;
+	float force = 300;
+
+	//isExtended from BP
+	bool IsExtended;
+	//object's location in BP
+	UPROPERTY(BlueprintReadWrite, Category="ThirdPersonCharacter")
+	FVector targetLocation;
 
 protected:
 	// Called when the game starts
@@ -36,6 +43,8 @@ public:
 	void Interacte();
 
 	void CalPushDistance();
+
+	void EndPush();
 
 	UFUNCTION()
 	void PushBack(FVector origin, FVector target);
