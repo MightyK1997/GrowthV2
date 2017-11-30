@@ -2,6 +2,10 @@
 	"BuildId": "3709383",
 	"Modules": 
 	{
+<<<<<<< HEAD
 		"Rapid5": "UE4Editor-Rapid5-2817.dll"
+=======
+		"Rapid5": "UE4Editor-Rapid5-6138.dll"
+>>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
 	}
 }
