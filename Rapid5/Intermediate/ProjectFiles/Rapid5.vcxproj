@@ -124,7 +124,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{548B8FBD-223A-4C0D-A2E7-6FE33AC4CCBB}</ProjectGuid>
+		<ProjectGuid>{88EB19BE-0E2D-47F3-B920-D3C9811B5BA2}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>Rapid5</RootNamespace>
 		<PlatformToolset>v140</PlatformToolset>
@@ -568,13 +568,8 @@
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
 		<None Include="..\..\Config\DefaultInput.ini" />
-<<<<<<< HEAD
-		<ClCompile Include="..\..\Source\Rapid5\MouseChangeClass.cpp" />
-		<ClInclude Include="..\..\Source\Rapid5\MouseChangeClass.h" />
-=======
 		<ClCompile Include="..\..\Source\Rapid5\Push.cpp" />
 		<ClInclude Include="..\..\Source\Rapid5\Push.h" />
->>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
 		<None Include="..\..\Source\Rapid5\Rapid5.Build.cs" />
 		<ClCompile Include="..\..\Source\Rapid5\Rapid5.cpp" />
 		<ClInclude Include="..\..\Source\Rapid5\Rapid5.h" />

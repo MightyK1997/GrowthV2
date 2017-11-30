@@ -20,8 +20,10 @@ public:
 	// Sets default values for this component's properties
 	UPush();
 	ACharacter* OwnerCharacter;
+	UCapsuleComponent body;
 	FTimerHandle timeHandle;
 	float countdownTime;
+	float distance = 100;
 
 protected:
 	// Called when the game starts
@@ -32,6 +34,8 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;	
 	
 	void Interacte();
+
+	void CalPushDistance();
 
 	UFUNCTION()
 	void PushBack(FVector origin, FVector target);

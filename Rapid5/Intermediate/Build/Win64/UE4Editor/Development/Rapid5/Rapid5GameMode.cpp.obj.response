@@ -24,15 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-<<<<<<< HEAD
-/I C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\Rapid5\Source
-/I C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5
-/I C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\Rapid5\Source\Rapid5
-=======
-/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project\Rapid5\Source
-/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5
-/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project\Rapid5\Source\Rapid5
->>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
+/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source
+/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5
+/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source\Rapid5
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -365,15 +359,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-<<<<<<< HEAD
-"C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\Rapid5\Source\Rapid5\Rapid5GameMode.cpp"
-/FI"C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Definitions.Rapid5.h"
-/Fo"C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Rapid5GameMode.cpp.obj"
-=======
-"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project\Rapid5\Source\Rapid5\Rapid5GameMode.cpp"
-/FI"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Definitions.Rapid5.h"
-/Fo"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Rapid5GameMode.cpp.obj"
->>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
+"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source\Rapid5\Rapid5GameMode.cpp"
+/FI"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Definitions.Rapid5.h"
+/Fo"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Rapid5GameMode.cpp.obj"
 /TP
 /GR-
 /W4
