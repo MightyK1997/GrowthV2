@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source"
-/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source
-/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5
-/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source\Rapid5
+/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Source
+/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5
+/I C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Source\Rapid5
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Core\Public\Async"
@@ -358,9 +358,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5\Push.gen.cpp"
-/FI"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Definitions.Rapid5.h"
-/Fo"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Push.gen.cpp.obj"
+"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Intermediate\Build\Win64\UE4Editor\Inc\Rapid5\Push.gen.cpp"
+/FI"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Definitions.Rapid5.h"
+/Fo"C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Intermediate\Build\Win64\UE4Editor\Development\Rapid5\Push.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,3 +1,3 @@
-C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source\Rapid5\Rapid5.Build.cs
-C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source\Rapid5.Target.cs
-C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\Project2\Rapid5\Source\Rapid5Editor.Target.cs
+C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Source\Rapid5\Rapid5.Build.cs
+C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Source\Rapid5.Target.cs
+C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\Rapid5\Source\Rapid5Editor.Target.cs

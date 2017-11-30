@@ -124,7 +124,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{88EB19BE-0E2D-47F3-B920-D3C9811B5BA2}</ProjectGuid>
+		<ProjectGuid>{5ECEE881-E74C-4A0A-8CFB-82CD26DC4A18}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>Rapid5</RootNamespace>
 		<PlatformToolset>v140</PlatformToolset>

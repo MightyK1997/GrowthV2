@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Rapid5.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{BF968DCA-2171-4770-8C38-7D4D59D465DC}</UniqueIdentifier>
+			<UniqueIdentifier>{AF548D96-C98D-4E1F-B712-E0AD30872DEB}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Rapid5.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{7C73043C-0D8D-4075-9A0C-327A8114EB2E}</UniqueIdentifier>
+			<UniqueIdentifier>{D68F1116-E3E2-40B9-B498-952A7B5C153F}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Rapid5">
-			<UniqueIdentifier>{90DE5237-6595-4BB1-B1FB-B56E08BF3791}</UniqueIdentifier>
+			<UniqueIdentifier>{559A9646-9EFD-4BD0-B90C-1283E21748B4}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\Rapid5\Push.cpp">
 			<Filter>Source\Rapid5</Filter>
