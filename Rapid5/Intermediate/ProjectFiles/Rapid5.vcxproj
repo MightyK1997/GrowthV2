@@ -415,6 +415,8 @@
 		<None Include="..\..\Config\DefaultEngine.ini" />
 		<None Include="..\..\Config\DefaultGame.ini" />
 		<None Include="..\..\Config\DefaultInput.ini" />
+		<ClCompile Include="..\..\Source\Rapid5\MouseChangeClass.cpp" />
+		<ClInclude Include="..\..\Source\Rapid5\MouseChangeClass.h" />
 		<None Include="..\..\Source\Rapid5\Rapid5.Build.cs" />
 		<ClCompile Include="..\..\Source\Rapid5\Rapid5.cpp" />
 		<ClInclude Include="..\..\Source\Rapid5\Rapid5.h" />

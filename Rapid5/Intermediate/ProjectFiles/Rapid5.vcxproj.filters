@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Rapid5.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{C5331531-78EE-43F9-B3B6-DC5F3F16C79E}</UniqueIdentifier>
+			<UniqueIdentifier>{B7AC828E-E896-41FE-B00B-8F04B99E686B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Rapid5.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{D4BCD898-5F57-46F1-856C-4DD11FE4C5E8}</UniqueIdentifier>
+			<UniqueIdentifier>{5D0A874D-A543-42CC-BBA6-926058492559}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,8 +31,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Rapid5">
-			<UniqueIdentifier>{644CB194-9674-4CAE-B98B-D4A898137419}</UniqueIdentifier>
+			<UniqueIdentifier>{AF0D6792-103F-49B6-8DC9-57179C14DEDF}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\Rapid5\MouseChangeClass.cpp">
+			<Filter>Source\Rapid5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Rapid5\MouseChangeClass.h">
+			<Filter>Source\Rapid5</Filter>
+		</ClInclude >
 		<None Include="..\..\Source\Rapid5\Rapid5.Build.cs">
 			<Filter>Source\Rapid5</Filter>
 		</None >
