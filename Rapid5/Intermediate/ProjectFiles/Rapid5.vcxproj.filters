@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Rapid5.uproject" />
+		<Filter Include="Source">
+<<<<<<< HEAD
+			<UniqueIdentifier>{B7AC828E-E896-41FE-B00B-8F04B99E686B}</UniqueIdentifier>
+=======
+			<UniqueIdentifier>{A1989C01-A743-4506-88FD-BA9282016214}</UniqueIdentifier>
+>>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
+		</Filter>
+		<None Include="..\..\Source\Rapid5.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Rapid5Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+<<<<<<< HEAD
+			<UniqueIdentifier>{5D0A874D-A543-42CC-BBA6-926058492559}</UniqueIdentifier>
+=======
+			<UniqueIdentifier>{0078B124-BF05-4A08-9CAA-FF1492C70E2A}</UniqueIdentifier>
+>>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Rapid5">
+<<<<<<< HEAD
+			<UniqueIdentifier>{AF0D6792-103F-49B6-8DC9-57179C14DEDF}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Rapid5\MouseChangeClass.cpp">
+			<Filter>Source\Rapid5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Rapid5\MouseChangeClass.h">
+=======
+			<UniqueIdentifier>{DBE0655B-7D7B-441D-9258-3A7B28A7A570}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Rapid5\Push.cpp">
+			<Filter>Source\Rapid5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Rapid5\Push.h">
+>>>>>>> aaa18a1e05ad4c86f8fda5b05ba97adc056b32a6
+			<Filter>Source\Rapid5</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Rapid5\Rapid5.Build.cs">
+			<Filter>Source\Rapid5</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Rapid5\Rapid5.cpp">
+			<Filter>Source\Rapid5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Rapid5\Rapid5.h">
+			<Filter>Source\Rapid5</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Rapid5\Rapid5Character.cpp">
+			<Filter>Source\Rapid5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Rapid5\Rapid5Character.h">
+			<Filter>Source\Rapid5</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Rapid5\Rapid5GameMode.cpp">
+			<Filter>Source\Rapid5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Rapid5\Rapid5GameMode.h">
+			<Filter>Source\Rapid5</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
