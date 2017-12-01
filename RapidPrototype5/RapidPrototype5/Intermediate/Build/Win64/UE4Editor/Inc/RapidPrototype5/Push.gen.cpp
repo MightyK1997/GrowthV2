@@ -78,17 +78,6 @@ void EmptyLinkFunctionForGeneratedCodePush() {}
 				{ "ModuleRelativePath", "Push.h" },
 			};
 #endif
-#if WITH_METADATA
-			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_targetLocation_MetaData[] = {
-				{ "Category", "ThirdPersonCharacter" },
-				{ "ModuleRelativePath", "Push.h" },
-				{ "ToolTip", "object's location in BP" },
-			};
-#endif
-			static const UE4CodeGen_Private::FStructPropertyParams NewProp_targetLocation = { UE4CodeGen_Private::EPropertyClass::Struct, "targetLocation", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000004, 1, nullptr, STRUCT_OFFSET(UPush, targetLocation), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(NewProp_targetLocation_MetaData, ARRAY_COUNT(NewProp_targetLocation_MetaData)) };
-			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
-				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_targetLocation,
-			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<UPush>::IsAbstract,
 			};
@@ -97,7 +86,7 @@ void EmptyLinkFunctionForGeneratedCodePush() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00B00080u,
 				FuncInfo, ARRAY_COUNT(FuncInfo),
-				PropPointers, ARRAY_COUNT(PropPointers),
+				nullptr, 0,
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -107,7 +96,7 @@ void EmptyLinkFunctionForGeneratedCodePush() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UPush, 152113328);
+	IMPLEMENT_CLASS(UPush, 1616512786);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UPush(Z_Construct_UClass_UPush, &UPush::StaticClass, TEXT("/Script/RapidPrototype5"), TEXT("UPush"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPush);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

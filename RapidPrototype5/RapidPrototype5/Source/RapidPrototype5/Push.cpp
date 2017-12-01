@@ -9,8 +9,8 @@ UPush::UPush()
 	// Set this component to be initialized when the game starts, and to be ticked every frame.  You can turn these features
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
-
-
+	
+	
 }
 
 
@@ -18,7 +18,7 @@ UPush::UPush()
 void UPush::BeginPlay()
 {
 	Super::BeginPlay();
-
+	
 	//get character
 	OwnerCharacter = Cast<ACharacter>(GetOwner());
 	OwnerCharacter->InputComponent->BindAction("Push", IE_Released, this, &UPush::Interacte);
@@ -37,7 +37,7 @@ void UPush::BeginPlay()
 void UPush::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-
+	
 }
 
 void UPush::Interacte()
@@ -99,57 +99,57 @@ void UPush::Interacte()
 	//get controller
 	/* Don't need raycast
 	APlayerController* controller = UGameplayStatics::GetPlayerController(GetWorld(), 0);
-
+	
 	//ray cast
 	if (controller != nullptr)
 	{
-	//initialize hit info
-	FHitResult hit(ForceInit);
+		//initialize hit info
+		FHitResult hit(ForceInit);
 
-	controller->GetHitResultUnderCursor(ECollisionChannel::ECC_Visibility, true, hit);
+		controller->GetHitResultUnderCursor(ECollisionChannel::ECC_Visibility, true, hit);
 
-	//determine if hit
-	if (hit.IsValidBlockingHit())
-	{
-	UE_LOG(LogTemp, Warning, TEXT("Push %f"), distance);
-	//calculate target position
-	FVector objectPosition, position, target, direction;
-	objectPosition = hit.GetActor()->GetTransform().GetLocation();
-	position = OwnerCharacter->GetActorLocation();
+		//determine if hit
+		if (hit.IsValidBlockingHit())
+		{
+			UE_LOG(LogTemp, Warning, TEXT("Push %f"), distance);
+			//calculate target position
+			FVector objectPosition, position, target, direction;
+			objectPosition = hit.GetActor()->GetTransform().GetLocation();
+			position = OwnerCharacter->GetActorLocation();
 
-	//calculate direction
-	direction = FVector::VectorPlaneProject((position - objectPosition), FVector::UpVector);
-	direction.Normalize();
-	target = position + direction * distance;
-	//UE_LOG(LogTemp, Warning, TEXT("direction is %f, %f"), direction.X, direction.Y);
-	//UE_LOG(LogTemp, Warning, TEXT("target position is %f, %f"), target.X, target.Y);
+			//calculate direction
+			direction = FVector::VectorPlaneProject((position - objectPosition), FVector::UpVector);
+			direction.Normalize();
+			target = position + direction * distance;
+			//UE_LOG(LogTemp, Warning, TEXT("direction is %f, %f"), direction.X, direction.Y);
+			//UE_LOG(LogTemp, Warning, TEXT("target position is %f, %f"), target.X, target.Y);
 
-	//set timer
-	FTimerDelegate timerDel;
-	timerDel.BindUFunction(this, FName("PushBack"), position, target);
-	//OwnerCharacter->GetWorldTimerManager().SetTimer(timeHandle, timerDel, 0.01f, true);
+			//set timer
+			FTimerDelegate timerDel;
+			timerDel.BindUFunction(this, FName("PushBack"), position, target);
+			//OwnerCharacter->GetWorldTimerManager().SetTimer(timeHandle, timerDel, 0.01f, true);
+			
+			//set delay
+			OwnerCharacter->GetWorldTimerManager().SetTimer(timeHandle, this, &UPush::EndPush, 1.0f, false);
 
-	//set delay
-	OwnerCharacter->GetWorldTimerManager().SetTimer(timeHandle, this, &UPush::EndPush, 1.0f, false);
+			//use force
+			if (body != nullptr)
+			{
+				//set physics
+				body->SetSimulatePhysics(true);
+				body->BodyInstance.bLockRotation = true;
 
-	//use force
-	if (body != nullptr)
-	{
-	//set physics
-	body->SetSimulatePhysics(true);
-	body->BodyInstance.bLockRotation = true;
+				//add force
+				direction.Z = 1;
+				body->AddImpulse(direction * body->GetBodyInstance()->GetBodyMass() * force);
+				
+			}
 
-	//add force
-	direction.Z = 1;
-	body->AddImpulse(direction * body->GetBodyInstance()->GetBodyMass() * force);
-
-	}
-
-	}
-	else
-	{
-	UE_LOG(LogTemp, Warning, TEXT("No hit"));
-	}
+		}
+		else
+		{
+			UE_LOG(LogTemp, Warning, TEXT("No hit"));
+		}
 
 	}*/
 
@@ -170,11 +170,11 @@ void UPush::PushBack(FVector origin, FVector target)
 {
 
 	//move
-	FVector position = FMath::Lerp(target, origin, countdownTime);
+	FVector position = FMath::Lerp(target ,origin, countdownTime);
 	OwnerCharacter->SetActorLocation(position);
 
 	countdownTime -= OwnerCharacter->GetWorldTimerManager().GetTimerElapsed(timeHandle);
-
+	
 	//clear
 	if (countdownTime <= 0)
 	{
@@ -188,3 +188,5 @@ void UPush::EndPush()
 {
 	body->SetSimulatePhysics(false);
 }
+
+
