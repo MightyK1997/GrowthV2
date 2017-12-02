@@ -1,0 +1,880 @@
+﻿Log file open, 12/01/17 19:05:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RapidPrototype5
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1306447467) SRandInit(1306447467).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178117
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Binaries/Win64/UE4Editor-RapidPrototype5.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.02-02.05.39:961][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-02.05.39:961][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.02-02.05.39:978][  0]LogInit: Computer: eae-d-089
+[2017.12.02-02.05.39:978][  0]LogInit: User: u1166596
+[2017.12.02-02.05.39:978][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.02-02.05.39:978][  0]LogInit: High frequency timer resolution =3.320312 MHz
+[2017.12.02-02.05.39:978][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.02-02.05.39:978][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.02-02.05.39:978][  0]LogMemory: Process Physical Memory: 272.31 MB used, 272.31 MB peak
+[2017.12.02-02.05.39:978][  0]LogMemory: Process Virtual Memory: 269.74 MB used, 269.74 MB peak
+[2017.12.02-02.05.39:978][  0]LogMemory: Physical Memory: 7828.91 MB used,  24877.65 MB free, 32706.56 MB total
+[2017.12.02-02.05.39:978][  0]LogMemory: Virtual Memory: 644.27 MB used,  24877.65 MB free, 134217728.00 MB total
+[2017.12.02-02.05.40:121][  0]LogInit: Using OS detected language (en-US).
+[2017.12.02-02.05.40:121][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.02-02.05.40:123][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.02-02.05.40:513][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.02-02.05.40:762][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.02-02.05.40:801][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.02-02.05.40:801][  0]LogD3D11RHI:       8096/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.02-02.05.40:802][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.02-02.05.40:802][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.02-02.05.40:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.02-02.05.40:809][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.02-02.05.40:810][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.02-02.05.40:810][  0]LogWindows: EnumDisplayDevices:
+[2017.12.02-02.05.40:810][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.02-02.05.40:810][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.02-02.05.40:810][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.02-02.05.40:810][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.02-02.05.40:810][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.02-02.05.40:810][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.02-02.05.40:810][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.02-02.05.40:810][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.02-02.05.40:810][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.02-02.05.40:838][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.02-02.05.40:849][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.02-02.05.40:940][  0]LogShaderCompilers: Guid format shader working directory is -63 characters bigger than the processId version (../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Intermediate/Shaders/WorkingDirectory/26720/).
+[2017.12.02-02.05.40:940][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1166596/AppData/Local/Temp/UnrealShaderWorkingDir/E1A2056F447268494259B686E48AB32C/'.
+[2017.12.02-02.05.40:940][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.02-02.05.41:778][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.02-02.05.41:827][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.02-02.05.41:876][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.02-02.05.41:924][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.02-02.05.41:973][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.02-02.05.42:022][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.02-02.05.42:070][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.02-02.05.42:119][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.02-02.05.42:163][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.02-02.05.42:213][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.02-02.05.42:262][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.02-02.05.42:308][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.02-02.05.42:355][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.02-02.05.42:403][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.02-02.05.42:494][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.02-02.05.42:494][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.02-02.05.42:543][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.02-02.05.42:580][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.02-02.05.42:663][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.02-02.05.42:690][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.02-02.05.42:737][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.02-02.05.42:782][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.02-02.05.42:830][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.02-02.05.42:876][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.02-02.05.42:876][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.02-02.05.43:307][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.02-02.05.43:388][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/u1166596/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-02.05.43:388][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1166596/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.02-02.05.43:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.02-02.05.43:388][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.02-02.05.43:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.02-02.05.43:388][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.02-02.05.43:403][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.02-02.05.43:415][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1166596/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.02-02.05.43:424][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.02-02.05.43:425][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.02-02.05.43:425][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-02.05.43:425][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-02.05.43:764][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-02.05.44:070][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.02-02.05.44:109][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.02-02.05.44:109][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.02-02.05.44:109][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.02-02.05.44:109][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.02-02.05.44:109][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.02-02.05.44:137][  0]LogNetVersion: RapidPrototype5 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1973499734)
+[2017.12.02-02.05.44:296][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2017.12.02-02.05.44:764][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.060819 seconds
+[2017.12.02-02.05.44:769][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.02-02.05.44:769][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.02-02.05.44:769][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.02-02.05.44:820][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.02-02.05.47:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.02-02.05.47:326][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.02-02.05.47:851][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:851][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:852][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:852][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:852][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:852][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:853][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:853][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:853][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:855][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:855][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:855][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:855][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:855][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:855][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:887][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.02-02.05.47:887][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Web/BeamEmitter.uasset.
+[2017.12.02-02.05.47:887][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Web/BeamEmitter : Can't find file for asset. /Game/ThirdPersonBP/Web/M_web
+[2017.12.02-02.05.47:887][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.02-02.05.47:887][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Web/BeamEmitter.uasset.
+[2017.12.02-02.05.47:888][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Web/BeamEmitter : Can't find file for asset. /Game/ThirdPersonBP/Web/M_web
+[2017.12.02-02.05.47:888][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:888][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:888][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:889][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:889][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.02-02.05.47:890][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:892][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:893][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_0
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_0
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_0
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_0
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_1
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_1
+[2017.12.02-02.05.47:901][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:901][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_1
+[2017.12.02-02.05.47:902][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:902][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_SpawnActorFromClass_1
+[2017.12.02-02.05.47:904][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:904][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_41
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_41
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_41
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_41
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_41
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_41
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_96
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_96
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_96
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_96
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_6
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_6
+[2017.12.02-02.05.47:905][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:905][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_6
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_6
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_7
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_7
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_7
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_7
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_53
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_53
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_53
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_53
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_53
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:906][  0]LoadErrors: Failed to load /Script/CableComponent.CableActor Referenced by K2Node_VariableGet_53
+[2017.12.02-02.05.47:906][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_123
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_123
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_123
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_CallFunction_123
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_8
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_8
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_8
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_8
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_9
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_9
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_9
+[2017.12.02-02.05.47:907][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.02-02.05.47:907][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_9
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'CableComponent' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'CableComponent' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set : 'EndLocation' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set EndLocation : 'EndLocation' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set SolverIterations : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set : 'EndLocation' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set EndLocation : 'EndLocation' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:915][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set SolverIterations : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.05.47:925][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.12.02-02.05.47:926][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  SetAttachEndTo
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  SetAttachEndTo . Please refresh node or break links to remove pin.
+[2017.12.02-02.05.47:927][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  SetAttachEndTo
+[2017.12.02-02.05.47:968][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  CableComponent  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2017.12.02-02.05.47:968][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-02.05.47:970][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2017.12.02-02.05.47:970][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  CableComponent : Actor Component Object Reference is not compatible with Object Reference.
+[2017.12.02-02.05.47:970][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2017.12.02-02.05.47:972][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2017.12.02-02.05.47:974][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  CableComponent  could not be found
+[2017.12.02-02.05.47:978][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0010.65] Compile of ThirdPersonCharacter failed. 16 Fatal Issue(s) 18 Warning(s) [in 68 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.02-02.05.47:980][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.02-02.05.47:980][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Web/M_web.M_web Referenced by ParticleModuleRequired_0
+[2017.12.02-02.05.47:980][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading NULL.
+[2017.12.02-02.05.47:980][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Web/M_web.M_web Referenced by ParticleModuleRequired_0
+[2017.12.02-02.05.48:196][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-02.05.48:609][  0]SourceControl: Source control is disabled
+[2017.12.02-02.05.48:610][  0]SourceControl: Source control is disabled
+[2017.12.02-02.05.48:665][  0]SourceControl: Source control is disabled
+[2017.12.02-02.05.48:717][  0]SourceControl: Source control is disabled
+[2017.12.02-02.05.49:529][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.02-02.05.49:791][  0]LogOcInput: OculusInput pre-init called
+[2017.12.02-02.05.50:056][  0]LogEngine: Initializing Engine...
+[2017.12.02-02.05.50:058][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.02-02.05.50:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.02-02.05.50:264][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.02-02.05.50:388][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.02-02.05.50:400][  0]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-02.05.50:411][  0]LogInit: FAudioDevice initialized.
+[2017.12.02-02.05.50:492][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/u1166596/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.02-02.05.50:508][  0]LogInit: Texture streaming: Enabled
+[2017.12.02-02.05.50:612][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.02-02.05.50:738][  0]LogInit: Transaction tracking system initialized
+[2017.12.02-02.05.51:048][  0]BlueprintLog: New page: Editor Load
+[2017.12.02-02.05.51:998][  0]LocalizationService: Localization service is disabled
+[2017.12.02-02.05.52:729][  0]LogConsoleResponse: Display: 
+[2017.12.02-02.05.52:901][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.02-02.05.52:901][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.02-02.05.52:901][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.02-02.05.53:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/' took 0.01s
+[2017.12.02-02.05.54:092][  0]SourceControl: Source control is disabled
+[2017.12.02-02.05.54:092][  0]LightingResults: New page: Lighting Build
+[2017.12.02-02.05.54:134][  0]MapCheck: New page: Map Check
+[2017.12.02-02.05.54:134][  0]LightingResults: New page: Lighting Build
+[2017.12.02-02.05.54:360][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-02.05.54:368][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-02.05.54:378][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-02.05.54:430][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 50.797ms to complete.
+[2017.12.02-02.05.54:430][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.338
+[2017.12.02-02.05.54:495][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.02-02.05.54:598][  0]LogCollectionManager: Loaded 0 collections in 0.001721 seconds
+[2017.12.02-02.05.54:682][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Collections/' took 0.01s
+[2017.12.02-02.05.54:682][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/Developers/u1166596/Collections/' took 0.01s
+[2017.12.02-02.05.54:682][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/Collections/' took 0.01s
+[2017.12.02-02.05.54:682][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.02-02.05.54:692][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2366 classes and 521 folders.
+[2017.12.02-02.05.54:756][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.02-02.05.55:047][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.02-02.05.55:091][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.02-02.05.56:055][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.12.02-02.05.56:082][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-02.05.56:084][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.02-02.05.56:101][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RapidPrototype5
+[2017.12.02-02.05.56:101][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.02-02.05.56:101][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2017.12.02-02.05.56:101][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.12.02-02.05.56:101][  0]LogTemp: BranchPath = eae-d-089/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = eae-d-089/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2017.12.02-02.05.56:101][  0]LogSlate: Took 0.008862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.02-02.05.56:231][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\u1166596\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.12.02-02.05.56:231][  0]LogRenderer: Reallocating scene render targets to support 1160x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.02-02.05.56:392][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.02-02.05.56:393][  0]LogLoad: (Engine Initialization) Total time: 19.07 seconds
+[2017.12.02-02.05.56:393][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.02-02.05.56:394][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.02-02.05.56:394][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.02-02.05.56:424][  0]LogAssetRegistry: Asset discovery search completed in 12.1511 seconds
+[2017.12.02-02.05.56:426][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.02-02.05.56:426][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2017.12.02-02.05.56:429][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.02-02.06.04:698][961]LogSlate: Took 0.003490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-02.06.15:720][260]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-02.06.16:019][260]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2017.12.02-02.06.16:635][260]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-02.06.16:720][260]LogSlate: Took 0.003985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.02-02.06.17:361][261]LogSlate: Took 0.005039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.02-02.06.49:252][802]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.02-02.06.49:342][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.12.02-02.06.49:342][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-02.06.49:343][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set Attach End To
+[2017.12.02-02.06.49:343][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-02.06.49:343][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-02.06.49:343][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set Attach End To
+[2017.12.02-02.06.49:343][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Cable Component  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2017.12.02-02.06.49:343][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-02.06.49:345][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2017.12.02-02.06.49:345][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  Cable Component : Actor Component Object Reference is not compatible with Object Reference.
+[2017.12.02-02.06.49:346][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2017.12.02-02.06.49:347][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2017.12.02-02.06.49:349][802]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Cable Component  could not be found
+[2017.12.02-02.06.49:729][802]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0072.40] Compile of ThirdPersonCharacter failed. 16 Fatal Issue(s) 8 Warning(s) [in 477 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.02-02.07.09:098][348]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.02-02.07.12:331][348]Cmd: MAP LOAD FILE="../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-02.07.12:332][348]LightingResults: New page: Lighting Build
+[2017.12.02-02.07.12:333][348]LoadErrors: New page: Loading map: TestLevel.umap
+[2017.12.02-02.07.12:334][348]MapCheck: New page: Map Check
+[2017.12.02-02.07.12:334][348]LightingResults: New page: Lighting Build
+[2017.12.02-02.07.12:373][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-02.07.12:424][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-02.07.12:479][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.839ms to complete.
+[2017.12.02-02.07.12:479][348]LogFileHelpers: Loading map 'TestLevel' took 0.149
+[2017.12.02-02.07.16:511][816]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-02.07.16:596][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-02.07.23:463][ 59]LogSlate: Took 0.006141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.12.02-02.13.51:077][ 13]LogEditorTransaction: Undo Create Pin Link
+[2017.12.02-02.13.51:087][ 13]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-02.13.52:898][206]LogEditorTransaction: Undo Create Pin Link
+[2017.12.02-02.13.53:570][283]LogEditorTransaction: Undo Create Pin Link
+[2017.12.02-02.13.54:206][356]LogEditorTransaction: Undo Resize Node
+[2017.12.02-02.13.54:761][357]LogEditorTransaction: Undo Resize Node
+[2017.12.02-02.17.29:363][ 80]LogSavePackage: Save=401.71ms
+[2017.12.02-02.17.29:364][ 80]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/TestLevel_Auto1E58F9E6A45F085E995E3E0BA4C04AD25.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto1.umap'
+[2017.12.02-02.17.29:367][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto1.umap
+[2017.12.02-02.17.29:372][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestLevel' took 0.450
+[2017.12.02-02.17.29:373][ 80]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.450
+[2017.12.02-02.17.29:375][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.02-02.17.29:393][ 80]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.02-02.17.29:393][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.02-02.17.29:639][ 80]LogSavePackage: Save=232.37ms
+[2017.12.02-02.17.29:639][ 80]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonCharacter_Auto1B9EE54984B1F8679C97FB7B1672CD4CE.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.12.02-02.17.29:641][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.12.02-02.17.29:642][ 80]LogFileHelpers: Auto-saving content packages took 0.268
+[2017.12.02-02.18.05:406][333]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.02-02.18.05:499][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.12.02-02.18.05:500][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-02.18.05:500][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-02.18.05:500][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:501][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:501][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:501][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:501][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set Attach End To
+[2017.12.02-02.18.05:501][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-02.18.05:502][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-02.18.05:502][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-02.18.05:502][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:502][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:502][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:503][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-02.18.05:503][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set Attach End To
+[2017.12.02-02.18.05:503][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Cable Component  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2017.12.02-02.18.05:503][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-02.18.05:505][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  Cable Component : Actor Component Object Reference is not compatible with Object Reference.
+[2017.12.02-02.18.05:505][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2017.12.02-02.18.05:508][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2017.12.02-02.18.05:510][333]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Cable Component  could not be found
+[2017.12.02-02.18.05:869][333]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0748.56] Compile of ThirdPersonCharacter failed. 15 Fatal Issue(s) 7 Warning(s) [in 463 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.02-02.20.02:738][114]LogBlueprint: Warning: [ThirdPersonCharacter] 'CableComponent' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.02-02.27.29:956][ 31]LogSavePackage: Save=395.24ms
+[2017.12.02-02.27.29:958][ 31]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/TestLevel_Auto2043006604F93A50C19F20FBFFB2188EF.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto2.umap'
+[2017.12.02-02.27.29:961][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto2.umap
+[2017.12.02-02.27.29:964][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestLevel' took 0.443
+[2017.12.02-02.27.29:964][ 31]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.443
+[2017.12.02-02.27.29:966][ 31]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.02-02.27.29:984][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.02-02.27.29:985][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.02-02.27.30:250][ 31]LogSavePackage: Save=251.70ms
+[2017.12.02-02.27.30:250][ 31]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonCharacter_Auto2CA21E1664155F30320B5C7AFACB7FA79.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2017.12.02-02.27.30:253][ 31]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.12.02-02.27.30:253][ 31]LogFileHelpers: Auto-saving content packages took 0.288
+[2017.12.02-20.01.59:897][482]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-20.01.59:971][482]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.12.02-20.02.00:015][482]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.12.02-20.02.00:063][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.12.02-20.02.00:064][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-20.02.00:064][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-20.02.00:064][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:065][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:065][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:065][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:065][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set Attach End To
+[2017.12.02-20.02.00:066][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-20.02.00:066][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.02-20.02.00:066][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "EndLocation" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set EndLocation
+[2017.12.02-20.02.00:066][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:066][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  <Unnamed>  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:067][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Target  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:067][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Actor  no longer exists on node  Set Attach End To . Please refresh node or break links to remove pin.
+[2017.12.02-20.02.00:067][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Could not find a function named "SetAttachEndTo" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set Attach End To
+[2017.12.02-20.02.00:067][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Cable Component  and  Target : Object Reference is not compatible with Actor Component Object Reference.
+[2017.12.02-20.02.00:067][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "CableComponent" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get CableComponent
+[2017.12.02-20.02.00:069][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  Cable Component : Actor Component Object Reference is not compatible with Object Reference.
+[2017.12.02-20.02.00:069][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2017.12.02-20.02.00:072][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2017.12.02-20.02.00:074][482]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Cable Component  could not be found
+[2017.12.02-20.02.00:077][482]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [4583.89] Compile of ThirdPersonCharacter failed. 15 Fatal Issue(s) 7 Warning(s) [in 64 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.02-20.02.00:427][482]LogPlayLevel: PlayLevel: Blueprint regeneration took 455 ms (1 blueprints)
+[2017.12.02-20.02.00:427][482]BlueprintLog: Blueprint ThirdPersonCharacter failed to compile
+[2017.12.02-20.02.02:097][482]PIE: New page: PIE session: TestLevel (Dec 2, 2017, 6:02:02 AM)
+[2017.12.02-20.02.02:097][482]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.02-20.02.02:120][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023366s)
+[2017.12.02-20.02.02:121][482]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.02-20.02.02:121][482]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2017.12.02-20.02.02:122][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.025154s)
+[2017.12.02-20.02.02:144][482]LogInit: XAudio2 using 'DELL UZ2315H-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.02.02:152][482]LogInit: FAudioDevice initialized.
+[2017.12.02-20.02.02:224][482]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.02-20.02.02:234][482]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.02-20.02.02:234][482]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.02-20.02.02:235][482]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.02-13.02.02
+[2017.12.02-20.02.02:235][482]LogWorld: Bringing up level for play took: 0.010086
+[2017.12.02-20.02.02:236][482]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.02-20.02.02:281][482]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.12.02-20.02.02:283][482]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel 1.451
+[2017.12.02-20.02.48:469][954]LogSavePackage: Save=388.25ms
+[2017.12.02-20.02.48:469][954]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/TestLevel_Auto3139D3A0F456C26CDF7D6B6852FE675A8.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto3.umap'
+[2017.12.02-20.02.48:473][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto3.umap
+[2017.12.02-20.02.48:479][954]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestLevel' took 0.433
+[2017.12.02-20.02.48:479][954]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.433
+[2017.12.02-20.02.48:481][954]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.02-20.02.48:492][954]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.02-20.02.48:492][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.12.02-20.02.48:735][954]LogSavePackage: Save=229.42ms
+[2017.12.02-20.02.48:735][954]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonCharacter_Auto3F6B67CE2459861C8E66A22B58EABFDAF.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2017.12.02-20.02.48:737][954]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2017.12.02-20.02.48:738][954]LogFileHelpers: Auto-saving content packages took 0.258
+[2017.12.02-20.07.11:522][597]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-20.07.13:396][597]LightingResults: New page: Lighting Build
+[2017.12.02-20.07.13:397][597]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2017.12.02-20.07.13:400][597]MapCheck: New page: Map Check
+[2017.12.02-20.07.13:400][597]LightingResults: New page: Lighting Build
+[2017.12.02-20.07.13:426][597]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-20.07.13:474][597]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-20.07.14:858][597]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,383.648ms to complete.
+[2017.12.02-20.07.14:860][597]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.466
+[2017.12.02-20.07.54:875][209]Cmd: DELETE
+[2017.12.02-20.07.54:875][209]Cmd: ACTOR DELETE
+[2017.12.02-20.07.54:878][209]LogEditorActor: Deleted Actor: tBox_C
+[2017.12.02-20.07.54:893][209]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.12.02-20.08.12:925][369]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.10.07:971][351]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/RapidPrototype5.uproject" -game -rocket -progress
+[2017.12.02-20.10.08:174][351]Discovering modules, targets and source code for project...
+[2017.12.02-20.10.12:197][351]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.02-20.10.12:204][351]Candidate modules for hot reload:
+[2017.12.02-20.10.12:204][351]  RapidPrototype5
+[2017.12.02-20.10.12:204][351]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe RapidPrototype5 -ModuleWithSuffix RapidPrototype5 102 Win64 Development -editorrecompile -canskiplink "C:/Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/RapidPrototype5.uproject" ]
+[2017.12.02-20.10.48:983][351]CompilerResultsLog: New page: Compilation - Dec 2, 2017, 6:10:48 AM
+[2017.12.02-20.10.48:984][351]CompilerResultsLog: Creating makefile for hot reloading RapidPrototype5 (UHT file was deleted)
+[2017.12.02-20.10.48:984][351]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.02-20.10.48:984][351]CompilerResultsLog: Parsing headers for RapidPrototype5Editor
+[2017.12.02-20.10.48:984][351]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\RapidPrototype5.uproject" "C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\RapidPrototype5Editor\Development\RapidPrototype5Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.02-20.10.48:984][351]CompilerResultsLog: Reflection code generated for RapidPrototype5Editor in 7.0097966 seconds
+[2017.12.02-20.10.48:984][351]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2017.12.02-20.10.48:984][351]CompilerResultsLog: Mangonel.cpp
+[2017.12.02-20.10.48:985][351]CompilerResultsLog: Mangonel.gen.cpp
+[2017.12.02-20.10.48:985][351]CompilerResultsLog: RapidPrototype5.init.gen.cpp
+[2017.12.02-20.10.48:985][351]CompilerResultsLog: [4/5] Link UE4Editor-RapidPrototype5-102.dll
+[2017.12.02-20.10.48:985][351]CompilerResultsLog: [5/5] Link UE4Editor-RapidPrototype5-102.lib
+[2017.12.02-20.10.48:985][351]CompilerResultsLog:    Creating library C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-102.lib and object C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-102.exp
+[2017.12.02-20.10.48:985][351]CompilerResultsLog:    Creating library C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-102.suppressed.lib and object C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-102.suppressed.exp
+[2017.12.02-20.10.48:986][351]CompilerResultsLog: Total build time: 36.61 seconds (Local executor: 1.12 seconds)
+[2017.12.02-20.10.48:986][351]LogMainFrame: MainFrame: Module compiling took 36.789 seconds
+[2017.12.02-20.10.49:050][351]LogClass: Could not find existing class Mangonel in package /Script/RapidPrototype5 for HotReload, assuming new class
+[2017.12.02-20.10.49:056][351]LogContentBrowser: Native class hierarchy updated for 'RapidPrototype5' in 0.0006 seconds. Added 4 classes and 2 folders.
+[2017.12.02-20.10.49:059][351]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2017.12.02-20.10.49:360][351]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2369 classes and 525 folders.
+[2017.12.02-20.10.49:362][351]Display: HotReload took 37.2s.
+[2017.12.02-20.10.49:363][351]Warning: HotReload operation took 37.2s.
+[2017.12.02-20.10.49:391][351]LogHotReload: New module detected: UE4Editor-RapidPrototype5-102.dll
+[2017.12.02-20.10.49:419][352]LogHotReload: Starting Hot-Reload from IDE
+[2017.12.02-20.10.49:537][352]LogContentBrowser: Native class hierarchy updated for 'RapidPrototype5' in 0.0007 seconds. Added 4 classes and 2 folders.
+[2017.12.02-20.10.49:541][352]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.12.02-20.10.49:806][352]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2369 classes and 525 folders.
+[2017.12.02-20.10.49:814][352]Display: HotReload took  0.4s.
+[2017.12.02-20.11.53:549][ 85]LogEditor: Attempting to add actor of class 'Mangonel' to level at -1540.00,90.00,130.00
+[2017.12.02-20.11.54:022][138]LogEditor: Attempting to add actor of class 'Mangonel' to level at -1110.00,-40.00,130.00
+[2017.12.02-20.11.55:897][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.02-20.11.58:309][648]Cmd: TRANSACTION UNDO
+[2017.12.02-20.11.58:310][648]LogEditorTransaction: Undo Create Actors
+[2017.12.02-20.12.09:742][989]LogEditor: Attempting to add actor of class 'Mangonel' to level at -850.00,570.00,130.00
+[2017.12.02-20.12.10:487][ 77]LogEditor: Attempting to add actor of class 'Mangonel' to level at -390.00,690.00,130.00
+[2017.12.02-20.12.12:134][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.02-20.12.13:823][466]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.12.02-20.12.29:711][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.02-20.13.02:055][116]Cmd: DELETE
+[2017.12.02-20.13.02:056][116]Cmd: ACTOR DELETE
+[2017.12.02-20.13.02:057][116]LogEditorActor: Deleted Actor: Actor
+[2017.12.02-20.13.02:107][116]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2017.12.02-20.13.06:676][662]LogActorFactory: Actor Factory created Cube
+[2017.12.02-20.13.07:346][738]LogActorFactory: Actor Factory created Cube
+[2017.12.02-20.13.16:357][785]LogActorFactory: Actor Factory created Sphere
+[2017.12.02-20.13.17:671][932]LogActorFactory: Actor Factory created Sphere
+[2017.12.02-20.13.17:834][947]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.02-20.13.59:581][789]EditorErrors: New page: Actor attachment
+[2017.12.02-20.14.05:715][498]EditorErrors: New page: Actor attachment
+[2017.12.02-20.14.13:620][431]LogEditor: Attempting to add actor of class 'Mangonel' to level at -730.00,120.00,130.00
+[2017.12.02-20.14.14:333][514]LogEditor: Attempting to add actor of class 'Mangonel' to level at -90.00,-140.00,280.00
+[2017.12.02-20.14.30:047][352]EditorErrors: New page: Actor attachment
+[2017.12.02-20.14.43:160][888]EditorErrors: New page: Actor attachment
+[2017.12.02-20.14.48:754][551]LogEditorActor: Deleted Actor: Actor
+[2017.12.02-20.14.48:772][551]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.02-20.14.50:294][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.02-20.14.51:893][918]Cmd: TRANSACTION UNDO
+[2017.12.02-20.14.51:893][918]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.14.53:050][ 52]Cmd: TRANSACTION UNDO
+[2017.12.02-20.14.53:050][ 52]LogEditorTransaction: Undo Delete selection
+[2017.12.02-20.17.54:279][903]LogSavePackage: Save=178.97ms
+[2017.12.02-20.17.54:279][903]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonExampleMap_Auto4B7CBA93D414492BC12888F87CB768EA1.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2017.12.02-20.17.54:282][903]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2017.12.02-20.17.54:288][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.233
+[2017.12.02-20.17.54:288][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2017.12.02-20.24.48:545][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.02-20.24.48:861][ 61]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.12.02-20.24.52:075][383]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.12.02-20.24.52:360][384]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2017.12.02-20.25.00:601][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.02-20.25.03:361][601]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.12.02-20.25.40:883][968]Cmd: TRANSACTION UNDO
+[2017.12.02-20.25.40:883][968]LogEditorTransaction: Undo Move Actors
+[2017.12.02-20.25.59:290][ 94]LogEditor: Attempting to add actor of class 'Mangonel' to level at -460.00,-30.00,130.00
+[2017.12.02-20.25.59:861][159]LogEditor: Attempting to add actor of class 'Mangonel' to level at -330.00,-120.00,130.00
+[2017.12.02-20.26.00:724][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.12.02-20.26.36:381][613]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.12.02-20.27.01:030][495]LogSavePackage: Save=168.86ms
+[2017.12.02-20.27.01:031][495]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonExampleMap522880214ED7DCD24E1B23ACFF82881A.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.02-20.27.01:039][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2017.12.02-20.27.01:257][495]LogSavePackage: Save=162.73ms
+[2017.12.02-20.27.01:257][495]LogSavePackage: Moving '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonExampleMap_BuiltData1C6376E5454B76907B073B88973B00E0.tmp' to '../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.12.02-20.27.01:260][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1166596/Desktop/Files/RapidPrototype/Game5/TestProject/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.12.02-20.31.24:338][183]EditorErrors: New page: Actor attachment
+[2017.12.02-20.31.25:313][288]EditorErrors: New page: Actor attachment
+[2017.12.02-20.31.27:949][587]EditorErrors: New page: Actor attachment
+[2017.12.02-20.31.29:418][744]EditorErrors: New page: Actor attachment
+[2017.12.02-20.31.30:507][863]EditorErrors: New page: Actor attachment
+[2017.12.02-20.31.31:068][918]LogHotReload: New module detected: UE4Editor-RapidPrototype5-9138.dll
+[2017.12.02-20.31.31:682][957]LogHotReload: Starting Hot-Reload from IDE
+[2017.12.02-20.31.31:791][957]LogContentBrowser: Native class hierarchy updated for 'RapidPrototype5' in 0.0007 seconds. Added 4 classes and 2 folders.
+[2017.12.02-20.31.31:795][957]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2017.12.02-20.31.32:109][957]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2369 classes and 525 folders.
+[2017.12.02-20.31.32:116][957]Display: HotReload took  0.4s.
+[2017.12.02-20.31.32:823][ 26]LogEditorActor: Deleted Actor: Actor
+[2017.12.02-20.31.32:876][ 26]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2017.12.02-20.31.34:745][241]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.02-20.31.34:776][241]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.12.02-20.31.37:017][495]Cmd: TRANSACTION UNDO
+[2017.12.02-20.31.37:017][495]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.02-20.31.38:120][615]Cmd: TRANSACTION UNDO
+[2017.12.02-20.31.38:121][615]LogEditorTransaction: Undo Delete selection
+[2017.12.02-20.31.39:740][794]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-20.31.39:823][794]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-20.31.39:824][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-20.31.39:824][794]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 2, 2017, 6:31:39 AM)
+[2017.12.02-20.31.39:824][794]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-20.31.39:841][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017207s)
+[2017.12.02-20.31.39:842][794]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-20.31.39:843][794]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2017.12.02-20.31.39:843][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018909s)
+[2017.12.02-20.31.39:873][794]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.02-20.31.39:880][794]LogInit: FAudioDevice initialized.
+[2017.12.02-20.31.39:909][794]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.02-20.31.39:911][794]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-13.31.39
+[2017.12.02-20.31.39:912][794]LogWorld: Bringing up level for play took: 0.001978
+[2017.12.02-20.31.39:912][794]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.02-20.31.40:882][794]LogWindows: Error: === Critical error: ===
+[2017.12.02-20.31.40:882][794]LogWindows: Error: 
+[2017.12.02-20.31.40:882][794]LogWindows: Error: Fatal error!
+[2017.12.02-20.31.40:882][794]LogWindows: Error: 
+[2017.12.02-20.31.40:882][794]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000178
+[2017.12.02-20.31.40:882][794]LogWindows: Error: 
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000B6A91B66 UE4Editor-RapidPrototype5-9138.dll!AMangonel::BeginPlay() [c:\users\u1166596\desktop\files\rapidprototype\game5\testproject\rapidprototype5\rapidprototype5\source\rapidprototype5\mangonel.cpp:19]
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x000000008206CAEB UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x000000008205F78A UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x000000008206CAEB UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000832655E0 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000827BDAB1 UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000832504FE UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000827E04BE UE4Editor-Engine.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x000000008112B095 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000811553CE UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x000000008117178F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x0000000080BC600F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x0000000081474926 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000B2CF5A26 UE4Editor.exe!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000B2D05430 UE4Editor.exe!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000B2D054AA UE4Editor.exe!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000B2D12379 UE4Editor.exe!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000B2D13D57 UE4Editor.exe!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000C7E92774 KERNEL32.DLL!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000C9500D51 ntdll.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: [Callstack] 0x00000000C9500D51 ntdll.dll!UnknownFunction []
+[2017.12.02-20.31.40:882][794]LogWindows: Error: 
+[2017.12.02-20.31.40:902][794]LogExit: Executing StaticShutdownAfterError
+[2017.12.02-20.31.40:905][794]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.12.02-20.31.40:905][794]Log file closed, 12/02/17 13:31:40
