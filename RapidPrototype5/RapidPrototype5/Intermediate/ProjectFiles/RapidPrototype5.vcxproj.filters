@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\RapidPrototype5.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{62420FAA-29C3-4CDC-AE35-06ED43395C93}</UniqueIdentifier>
+			<UniqueIdentifier>{FF2AAEFF-FC4E-4B7E-937E-00B08E57AB8B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\RapidPrototype5.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{A1BAD3CF-F98C-4175-A7C3-3AED9B3B0740}</UniqueIdentifier>
+			<UniqueIdentifier>{642C4D32-8039-4979-87D1-3672ECD02D3D}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,8 +31,14 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\RapidPrototype5">
-			<UniqueIdentifier>{1F59B582-1520-4F4C-B547-814B500F4FFF}</UniqueIdentifier>
+			<UniqueIdentifier>{1691EF2E-8533-4E64-8A4C-B3D1756470BA}</UniqueIdentifier>
 		</Filter>
+		<ClCompile Include="..\..\Source\RapidPrototype5\Mangonel.cpp">
+			<Filter>Source\RapidPrototype5</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\RapidPrototype5\Mangonel.h">
+			<Filter>Source\RapidPrototype5</Filter>
+		</ClInclude >
 		<ClCompile Include="..\..\Source\RapidPrototype5\Push.cpp">
 			<Filter>Source\RapidPrototype5</Filter>
 		</ClCompile >
@@ -58,12 +64,6 @@
 			<Filter>Source\RapidPrototype5</Filter>
 		</ClCompile >
 		<ClInclude Include="..\..\Source\RapidPrototype5\RapidPrototype5GameMode.h">
-			<Filter>Source\RapidPrototype5</Filter>
-		</ClInclude >
-		<ClCompile Include="..\..\Source\RapidPrototype5\Trigger.cpp">
-			<Filter>Source\RapidPrototype5</Filter>
-		</ClCompile >
-		<ClInclude Include="..\..\Source\RapidPrototype5\Trigger.h">
 			<Filter>Source\RapidPrototype5</Filter>
 		</ClInclude >
 	</ItemGroup>

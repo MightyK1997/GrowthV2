@@ -19,8 +19,8 @@ void EmptyLinkFunctionForGeneratedCodeRapidPrototype5_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/RapidPrototype5",
 				PKG_CompiledIn | 0x00000000,
-				0x91D7D0F7,
-				0x90B28E1B,
+				0x18DCE736,
+				0x67B8E15A,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
 			};
