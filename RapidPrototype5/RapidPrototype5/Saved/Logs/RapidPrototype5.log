@@ -2219,3 +2219,522 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get  GrappleCable
 [2017.12.05-17.26.47:275][153]LogSavePackage: Save=746.13ms
 [2017.12.05-17.26.47:275][153]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/TestLevel_BuiltDataD744533A4E29DEEDAFD115862FBD1D2D.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel_BuiltData.uasset'
 [2017.12.05-17.26.47:278][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel_BuiltData.uasset
+[2017.12.05-17.33.03:459][978]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.33.03:559][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.33.03:559][978]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:33:03 AM)
+[2017.12.05-17.33.03:559][978]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.33.03:577][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017451s)
+[2017.12.05-17.33.03:577][978]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.33.03:578][978]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2017.12.05-17.33.03:578][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.018642s)
+[2017.12.05-17.33.03:602][978]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.33.03:609][978]LogInit: FAudioDevice initialized.
+[2017.12.05-17.33.03:641][978]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.33.03:651][978]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.33.03:651][978]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.33.03:651][978]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.33.03
+[2017.12.05-17.33.03:652][978]LogWorld: Bringing up level for play took: 0.009923
+[2017.12.05-17.33.03:652][978]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.33.03:653][978]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel 0.331
+[2017.12.05-17.33.09:874][359]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.09:874][359]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.09:875][359]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.16:642][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube20)
+[2017.12.05-17.33.23:311][103]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.33.23:332][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.33.23:332][103]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:33:23 AM)
+[2017.12.05-17.33.23:332][103]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.33.23:352][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020129s)
+[2017.12.05-17.33.23:353][103]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.33.23:353][103]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2017.12.05-17.33.23:353][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.021091s)
+[2017.12.05-17.33.23:378][103]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.33.23:384][103]LogInit: FAudioDevice initialized.
+[2017.12.05-17.33.23:417][103]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.33.23:426][103]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.33.23:426][103]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.33.23:427][103]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.33.23
+[2017.12.05-17.33.23:427][103]LogWorld: Bringing up level for play took: 0.009455
+[2017.12.05-17.33.23:428][103]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.33.23:428][103]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel 0.106
+[2017.12.05-17.33.26:667][308]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.26:667][308]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.26:667][308]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.28:766][410]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.33.28:787][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.33.28:788][410]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:33:28 AM)
+[2017.12.05-17.33.28:788][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.33.28:807][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019649s)
+[2017.12.05-17.33.28:808][410]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.33.28:808][410]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2017.12.05-17.33.28:809][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.020865s)
+[2017.12.05-17.33.28:832][410]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.33.28:839][410]LogInit: FAudioDevice initialized.
+[2017.12.05-17.33.28:873][410]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.33.28:882][410]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.33.28:882][410]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.33.28:883][410]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.33.28
+[2017.12.05-17.33.28:883][410]LogWorld: Bringing up level for play took: 0.009180
+[2017.12.05-17.33.28:884][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.33.28:884][410]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel -0.438
+[2017.12.05-17.33.46:216][516]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.46:216][516]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.33.46:216][516]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.48:937][775]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.35.48:959][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.35.48:959][775]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:35:48 AM)
+[2017.12.05-17.35.48:960][775]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.35.48:978][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018128s)
+[2017.12.05-17.35.48:978][775]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.35.48:978][775]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2017.12.05-17.35.48:979][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.019143s)
+[2017.12.05-17.35.49:003][775]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.35.49:010][775]LogInit: FAudioDevice initialized.
+[2017.12.05-17.35.49:042][775]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.35.49:054][775]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.35.49:054][775]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.35.49:055][775]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.35.49
+[2017.12.05-17.35.49:055][775]LogWorld: Bringing up level for play took: 0.012432
+[2017.12.05-17.35.49:056][775]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.35.49:057][775]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel -0.263
+[2017.12.05-17.35.53:367][ 56]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.53:367][ 56]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.53:368][ 56]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.55:564][166]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.35.55:584][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.35.55:585][166]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:35:55 AM)
+[2017.12.05-17.35.55:585][166]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.35.55:602][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017222s)
+[2017.12.05-17.35.55:602][166]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.35.55:603][166]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2017.12.05-17.35.55:603][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.018227s)
+[2017.12.05-17.35.55:626][166]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.35.55:632][166]LogInit: FAudioDevice initialized.
+[2017.12.05-17.35.55:666][166]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.35.55:679][166]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.35.55:679][166]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.35.55:680][166]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.35.55
+[2017.12.05-17.35.55:680][166]LogWorld: Bringing up level for play took: 0.013937
+[2017.12.05-17.35.55:681][166]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.35.55:682][166]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel 0.362
+[2017.12.05-17.35.57:191][258]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.57:191][258]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.57:191][258]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.35.59:065][346]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.35.59:084][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.35.59:084][346]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:35:59 AM)
+[2017.12.05-17.35.59:084][346]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.35.59:106][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021070s)
+[2017.12.05-17.35.59:106][346]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.35.59:106][346]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2017.12.05-17.35.59:107][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.022152s)
+[2017.12.05-17.35.59:130][346]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.35.59:137][346]LogInit: FAudioDevice initialized.
+[2017.12.05-17.35.59:171][346]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.35.59:179][346]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.35.59:180][346]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.35.59:180][346]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.35.59
+[2017.12.05-17.35.59:181][346]LogWorld: Bringing up level for play took: 0.009325
+[2017.12.05-17.35.59:181][346]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.35.59:182][346]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel -0.139
+[2017.12.05-17.36.12:208][192]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.36.12:208][192]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.36.12:208][192]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.36.20:349][726]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:365][727]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:380][728]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:396][729]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:412][730]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:427][731]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:442][732]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:458][733]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:473][734]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:488][735]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:504][736]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:518][737]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:532][738]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:547][739]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:561][740]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:576][741]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:591][742]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:606][743]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:620][744]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:637][745]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:652][746]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:667][747]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:682][748]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:698][749]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:713][750]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:728][751]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:743][752]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:757][753]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:772][754]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:788][755]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:804][756]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:819][757]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:833][758]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:848][759]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:862][760]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:876][761]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:891][762]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:907][763]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:923][764]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:937][765]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:952][766]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:966][767]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:980][768]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.20:997][769]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:012][770]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:025][771]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:041][772]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:059][773]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:075][774]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:090][775]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:106][776]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:122][777]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:138][778]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:154][779]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:169][780]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:186][781]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:203][782]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:219][783]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:235][784]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:250][785]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:266][786]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:282][787]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:298][788]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:313][789]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:329][790]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.21:345][791]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:396][801]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:410][802]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:424][803]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:439][804]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:455][805]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:470][806]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:484][807]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:499][808]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:514][809]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:528][810]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:542][811]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:556][812]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:572][813]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:587][814]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:604][815]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:619][816]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:634][817]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:649][818]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:664][819]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:679][820]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:695][821]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:710][822]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:725][823]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:740][824]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:755][825]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:770][826]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:785][827]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:800][828]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:814][829]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:829][830]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:844][831]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:859][832]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:875][833]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:890][834]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:906][835]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:921][836]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:936][837]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:951][838]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:966][839]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:982][840]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.36:999][841]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:014][842]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:030][843]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:045][844]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:060][845]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:075][846]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:108][848]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:126][849]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:141][850]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:158][851]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:174][852]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:191][853]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:206][854]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:222][855]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:237][856]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:253][857]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:267][858]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:281][859]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:296][860]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:311][861]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:326][862]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:342][863]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:359][864]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:376][865]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.37:395][866]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Floor_1 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.36.39:941][998]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.36.39:960][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.36.39:961][998]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:36:39 AM)
+[2017.12.05-17.36.39:961][998]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.36.39:978][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017812s)
+[2017.12.05-17.36.39:979][998]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.36.39:979][998]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2017.12.05-17.36.39:979][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.018704s)
+[2017.12.05-17.36.40:002][998]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.36.40:008][998]LogInit: FAudioDevice initialized.
+[2017.12.05-17.36.40:043][998]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.36.40:051][998]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.36.40:052][998]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.36.40:052][998]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.36.40
+[2017.12.05-17.36.40:053][998]LogWorld: Bringing up level for play took: 0.009516
+[2017.12.05-17.36.40:053][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.36.40:054][998]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel 0.734
+[2017.12.05-17.36.53:422][848]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.36.53:422][848]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.36.53:423][848]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3 from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_BreakHitResult_HitActor3
+[2017.12.05-17.37.02:328][422]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:357][424]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:372][425]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:388][426]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:403][427]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:419][428]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:434][429]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:450][430]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:465][431]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:481][432]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:497][433]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:516][434]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:532][435]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:549][436]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:564][437]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:580][438]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:595][439]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:610][440]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:626][441]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:641][442]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:657][443]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:672][444]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:687][445]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:702][446]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:716][447]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:732][448]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:747][449]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:762][450]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:777][451]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:793][452]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:807][453]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:822][454]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:838][455]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:854][456]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:869][457]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:884][458]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:900][459]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:914][460]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:929][461]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:945][462]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:959][463]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:974][464]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.02:989][465]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:004][466]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:019][467]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:033][468]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:049][469]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:064][470]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:079][471]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:094][472]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:110][473]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:125][474]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:141][475]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:156][476]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:172][477]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:187][478]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:201][479]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:217][480]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:233][481]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:248][482]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:263][483]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:279][484]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:294][485]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:309][486]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.03:325][487]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.22:822][712]BlueprintLog: New page: Compile BP_Grapple
+[2017.12.05-17.37.23:846][737]LogSavePackage: Save=23.68ms
+[2017.12.05-17.37.23:846][737]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/BP_GrappleD769FAA54ACD334F26214CB88F12AB58.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Objects/CanGrapple/BP_Grapple.uasset'
+[2017.12.05-17.37.23:856][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Objects/CanGrapple/BP_Grapple.uasset
+[2017.12.05-17.37.24:816][804]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.37.24:841][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.37.24:841][804]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:37:24 AM)
+[2017.12.05-17.37.24:841][804]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.37.24:866][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024777s)
+[2017.12.05-17.37.24:867][804]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.37.24:867][804]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2017.12.05-17.37.24:867][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.025810s)
+[2017.12.05-17.37.24:891][804]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.37.24:898][804]LogInit: FAudioDevice initialized.
+[2017.12.05-17.37.24:929][804]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.37.24:939][804]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.37.24:939][804]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.37.24:939][804]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.37.24
+[2017.12.05-17.37.24:940][804]LogWorld: Bringing up level for play took: 0.010339
+[2017.12.05-17.37.24:940][804]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.37.24:941][804]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel -0.378
+[2017.12.05-17.37.41:474][244]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:485][245]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:496][246]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:508][247]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:519][248]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:531][249]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:542][250]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:553][251]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:565][252]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:577][253]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:588][254]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:600][255]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:611][256]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:622][257]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:633][258]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:645][259]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:656][260]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:667][261]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:679][262]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:690][263]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:701][264]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:713][265]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:724][266]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:735][267]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:747][268]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:758][269]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:770][270]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:781][271]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:793][272]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:805][273]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:817][274]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:829][275]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:841][276]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:853][277]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:864][278]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:875][279]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:887][280]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:898][281]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:909][282]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:922][283]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:933][284]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:945][285]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:956][286]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:967][287]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:979][288]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.41:991][289]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.conex34 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:028][292]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:054][294]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:080][296]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:103][298]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:126][300]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:150][302]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:174][304]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:198][306]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:222][308]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:247][310]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:271][312]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:297][314]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:322][316]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:348][318]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:373][320]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:397][322]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:422][324]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:434][325]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:446][326]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:458][327]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.42:470][328]PIE: Warning: Mobility of /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.Cube3 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2017.12.05-17.37.50:478][  2]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.37.50:497][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.37.50:497][  2]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:37:50 AM)
+[2017.12.05-17.37.50:497][  2]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.37.50:515][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017749s)
+[2017.12.05-17.37.50:515][  2]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.37.50:516][  2]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2017.12.05-17.37.50:516][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.018878s)
+[2017.12.05-17.37.50:538][  2]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.37.50:545][  2]LogInit: FAudioDevice initialized.
+[2017.12.05-17.37.50:579][  2]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.37.50:588][  2]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.37.50:589][  2]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.37.50:589][  2]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.37.50
+[2017.12.05-17.37.50:590][  2]LogWorld: Bringing up level for play took: 0.010042
+[2017.12.05-17.37.50:591][  2]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.37.50:591][  2]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel -0.727
+[2017.12.05-17.43.01:985][529]LogSavePackage: Save=431.78ms
+[2017.12.05-17.43.01:985][529]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/TestLevel_Auto49C239F5543F0795EAC9EA4A08262B1FE.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto4.umap'
+[2017.12.05-17.43.01:988][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TestLevel_Auto4.umap
+[2017.12.05-17.43.01:993][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestLevel' took 0.478
+[2017.12.05-17.43.01:993][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.478
+[2017.12.05-17.44.00:219][836]LogSavePackage: Save=407.32ms
+[2017.12.05-17.44.00:219][836]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/TestLevel888EE60B4D96CA91FCBC3AB2A6A6403C.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel.umap'
+[2017.12.05-17.44.00:229][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel.umap
+[2017.12.05-17.44.00:820][836]LogSavePackage: Save=523.88ms
+[2017.12.05-17.44.00:820][836]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/TestLevel_BuiltDataF4839A454BC498F28B19CF944AF79E7D.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel_BuiltData.uasset'
+[2017.12.05-17.44.00:822][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel_BuiltData.uasset
+[2017.12.05-17.44.02:095][893]LogSavePackage: Save=436.14ms
+[2017.12.05-17.44.02:095][893]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/TestLevel68E6C7C04594A9FB08E480AEB98B1CEB.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel.umap'
+[2017.12.05-17.44.02:097][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel.umap
+[2017.12.05-17.44.02:668][893]LogSavePackage: Save=529.41ms
+[2017.12.05-17.44.02:668][893]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/TestLevel_BuiltData8BA24AA14612DFD83519DF8C83969EE0.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel_BuiltData.uasset'
+[2017.12.05-17.44.02:670][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/TestLevel_BuiltData.uasset
+[2017.12.05-17.45.15:745][210]AssetReimport: New page: Outstanding source content changes 3:45:15 AM
+[2017.12.05-17.45.15:746][210]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/shoot_grapple2.wav)
+[2017.12.05-17.45.19:981][210]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/shoot_grapple2.shoot_grapple2.
+[2017.12.05-17.45.20:156][211]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/backgroundmusic2.wav)
+[2017.12.05-17.45.31:454][211]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/backgroundmusic2.backgroundmusic2.
+[2017.12.05-17.45.31:533][212]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/bridgemoving2.wav)
+[2017.12.05-17.45.33:754][212]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/bridgemoving2.bridgemoving2.
+[2017.12.05-17.45.33:772][213]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/button_click2.wav)
+[2017.12.05-17.45.34:458][213]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/button_click2.button_click2.
+[2017.12.05-17.45.34:475][214]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/grapple_connects2.wav)
+[2017.12.05-17.45.34:971][214]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/grapple_connects2.grapple_connects2.
+[2017.12.05-17.45.34:989][215]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/grapple_fails2.wav)
+[2017.12.05-17.45.35:418][215]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/grapple_fails2.grapple_fails2.
+[2017.12.05-17.45.35:433][216]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/pulling_towards_object2.wav)
+[2017.12.05-17.45.35:849][216]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/pulling_towards_object2.pulling_towards_object2.
+[2017.12.05-17.45.35:901][217]LogSavePackage: Save=7.92ms
+[2017.12.05-17.45.35:901][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/shoot_grapple201BE7FF94C2B1700E9E9C2BA04DD3466.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/shoot_grapple2.uasset'
+[2017.12.05-17.45.35:911][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/shoot_grapple2.uasset
+[2017.12.05-17.45.36:207][217]LogSavePackage: Save=248.30ms
+[2017.12.05-17.45.36:207][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/backgroundmusic250A6D95E46EB25143963E1A4124E5CF7.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/backgroundmusic2.uasset'
+[2017.12.05-17.45.36:216][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/backgroundmusic2.uasset
+[2017.12.05-17.45.36:239][217]LogSavePackage: Save=8.34ms
+[2017.12.05-17.45.36:239][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/bridgemoving22E59BAA34B3C07201B4E83B6578AE10B.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/bridgemoving2.uasset'
+[2017.12.05-17.45.36:247][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/bridgemoving2.uasset
+[2017.12.05-17.45.36:264][217]LogSavePackage: Save=8.25ms
+[2017.12.05-17.45.36:264][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/button_click2861E1B9E4CD63E4646467EADAB2560EE.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/button_click2.uasset'
+[2017.12.05-17.45.36:272][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/button_click2.uasset
+[2017.12.05-17.45.36:289][217]LogSavePackage: Save=7.34ms
+[2017.12.05-17.45.36:289][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/grapple_connects29320FC11406B5DB1200A7A81C83BC68C.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/grapple_connects2.uasset'
+[2017.12.05-17.45.36:298][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/grapple_connects2.uasset
+[2017.12.05-17.45.36:316][217]LogSavePackage: Save=7.62ms
+[2017.12.05-17.45.36:316][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/grapple_fails22C7C339A48533B63C0F64C894780869A.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/grapple_fails2.uasset'
+[2017.12.05-17.45.36:322][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/grapple_fails2.uasset
+[2017.12.05-17.45.36:342][217]LogSavePackage: Save=9.22ms
+[2017.12.05-17.45.36:342][217]LogSavePackage: Moving '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Saved/pulling_towards_object2D87DF0FF4E56C1CCE911488DE6B9AA8C.tmp' to '../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/pulling_towards_object2.uasset'
+[2017.12.05-17.45.36:349][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1141916/Documents/GitHub/GrowthV2/GrowthV2/RapidPrototype5/RapidPrototype5/Content/Audio/pulling_towards_object2.uasset
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/shoot_grapple2.
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/backgroundmusic2.
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/bridgemoving2.
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/button_click2.
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/grapple_connects2.
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/grapple_fails2.
+[2017.12.05-17.45.39:358][445]AssetReimport: Importing new asset /Game/Audio/pulling_towards_object2.
+[2017.12.05-17.45.39:743][476]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.05-17.45.39:767][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.05-17.45.39:767][476]PIE: New page: PIE session: TestLevel (Dec 5, 2017, 3:45:39 AM)
+[2017.12.05-17.45.39:767][476]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2017.12.05-17.45.39:792][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023778s)
+[2017.12.05-17.45.39:792][476]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.05-17.45.39:792][476]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.12.05-17.45.39:793][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.024852s)
+[2017.12.05-17.45.39:816][476]LogInit: XAudio2 using 'DELL UZ2315H-8 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.05-17.45.39:823][476]LogInit: FAudioDevice initialized.
+[2017.12.05-17.45.39:857][476]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.05-17.45.39:867][476]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.45.39:867][476]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_2.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.05-17.45.39:868][476]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2017.12.05-10.45.39
+[2017.12.05-17.45.39:868][476]LogWorld: Bringing up level for play took: 0.010271
+[2017.12.05-17.45.39:869][476]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.05-17.45.39:870][476]PIE: Play in editor start time for /Game/UEDPIE_0_TestLevel 0.556
