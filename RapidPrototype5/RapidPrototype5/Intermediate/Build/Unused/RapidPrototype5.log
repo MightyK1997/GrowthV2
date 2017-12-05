@@ -1,14 +1,5 @@
 ﻿  Compiling game modules for hot reload
-  Parsing headers for RapidPrototype5Editor
-    Running UnrealHeaderTool "C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\RapidPrototype5.uproject" "C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\RapidPrototype5Editor\Development\RapidPrototype5Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for RapidPrototype5Editor in 10.5929024 seconds
-  Performing 5 actions (4 in parallel)
-  RapidPrototype5.init.gen.cpp
-  Mangonel.cpp
-  Mangonel.gen.cpp
-  [4/5] Link UE4Editor-RapidPrototype5-3189.dll
-  [5/5] Link UE4Editor-RapidPrototype5-3189.lib
-     Creating library C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-3189.lib and object C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-3189.exp
-     Creating library C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-3189.suppressed.lib and object C:\Users\u1166596\Desktop\Files\RapidPrototype\Game5\TestProject\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-3189.suppressed.exp
+  Performing full C++ include scan (no include cache file)
+  Target is up to date
   Deploying RapidPrototype5Editor Win64 Development...
-  Total build time: 14.97 seconds (Local executor: 2.71 seconds)
+  Total build time: 2.27 seconds (NoActionsToExecute executor: 0.00 seconds)
