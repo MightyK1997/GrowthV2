@@ -1,5 +1,10 @@
-﻿  Compiling game modules for hot reload
-  Performing full C++ include scan (no include cache file)
-  Target is up to date
+﻿  Creating makefile for hot reloading RapidPrototype5Editor (modules to compile have changed)
+  Compiling game modules for hot reload
+  Performing 3 actions (4 in parallel)
+  SwingInArc.cpp
+  [2/3] Link UE4Editor-RapidPrototype5-8905.dll
+  [3/3] Link UE4Editor-RapidPrototype5-8905.lib
+     Creating library C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-8905.suppressed.lib and object C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-8905.suppressed.exp
+     Creating library C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-8905.lib and object C:\Users\u1141916\Documents\GitHub\GrowthV2\GrowthV2\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RapidPrototype5-8905.exp
   Deploying RapidPrototype5Editor Win64 Development...
-  Total build time: 2.27 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Total build time: 7.66 seconds (Local executor: 1.62 seconds)
