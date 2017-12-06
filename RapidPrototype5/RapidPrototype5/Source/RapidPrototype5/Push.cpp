@@ -93,6 +93,9 @@ void UPush::Interacte()
 		direction.Z = 1;
 		body->AddImpulse(direction * body->GetBodyInstance()->GetBodyMass() * force);
 
+		FOutputDeviceDebug debug;
+		OwnerCharacter->CallFunctionByNameWithArguments(TEXT("DisvisibleCableEvent"), debug, NULL, true);
+
 	}
 
 
