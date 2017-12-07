@@ -1,0 +1,1192 @@
+﻿Log file open, 12/06/17 15:52:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RapidPrototype5
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1444708046) SRandInit(1444708046).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162095
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Binaries/Win64/UE4Editor-RapidPrototype5.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.06-22.52.04:684][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-22.52.04:684][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.06-22.52.04:698][  0]LogInit: Computer: eae-d-059
+[2017.12.06-22.52.04:698][  0]LogInit: User: u0774750
+[2017.12.06-22.52.04:698][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.06-22.52.04:698][  0]LogInit: High frequency timer resolution =3.320313 MHz
+[2017.12.06-22.52.04:698][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.06-22.52.04:698][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.06-22.52.04:698][  0]LogMemory: Process Physical Memory: 272.64 MB used, 272.64 MB peak
+[2017.12.06-22.52.04:698][  0]LogMemory: Process Virtual Memory: 269.80 MB used, 269.80 MB peak
+[2017.12.06-22.52.04:698][  0]LogMemory: Physical Memory: 12026.79 MB used,  20678.93 MB free, 32705.71 MB total
+[2017.12.06-22.52.04:698][  0]LogMemory: Virtual Memory: 644.27 MB used,  20678.93 MB free, 134217728.00 MB total
+[2017.12.06-22.52.04:845][  0]LogInit: Using OS detected language (en-US).
+[2017.12.06-22.52.04:845][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.06-22.52.04:848][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.06-22.52.05:236][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.06-22.52.05:474][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.06-22.52.05:521][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.06-22.52.05:521][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.06-22.52.05:522][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.06-22.52.05:522][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.06-22.52.05:522][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.06-22.52.05:529][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.06-22.52.05:529][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.06-22.52.05:529][  0]LogWindows: EnumDisplayDevices:
+[2017.12.06-22.52.05:529][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.06-22.52.05:529][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.06-22.52.05:530][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.06-22.52.05:530][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.06-22.52.05:530][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.06-22.52.05:530][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.06-22.52.05:530][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.06-22.52.05:530][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.06-22.52.05:530][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.06-22.52.05:559][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.06-22.52.05:569][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.06-22.52.05:660][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Intermediate/Shaders/WorkingDirectory/26552/).
+[2017.12.06-22.52.05:660][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0774750/AppData/Local/Temp/UnrealShaderWorkingDir/9EE658CB4F193765B07260A33D35B43E/'.
+[2017.12.06-22.52.05:660][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.06-22.52.06:556][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.06-22.52.06:606][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.06-22.52.06:653][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.06-22.52.06:701][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.06-22.52.06:750][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.06-22.52.06:801][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.06-22.52.06:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.06-22.52.06:904][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.06-22.52.06:948][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.06-22.52.06:996][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.06-22.52.07:045][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.06-22.52.07:092][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.06-22.52.07:139][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.06-22.52.07:184][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.06-22.52.07:275][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.06-22.52.07:275][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.06-22.52.07:322][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.06-22.52.07:359][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.06-22.52.07:448][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.06-22.52.07:473][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.06-22.52.07:519][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.06-22.52.07:566][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.06-22.52.07:612][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.06-22.52.07:658][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.06-22.52.07:658][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.06-22.52.08:106][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.06-22.52.08:182][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/u0774750/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-22.52.08:182][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0774750/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.06-22.52.08:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.06-22.52.08:182][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.06-22.52.08:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.06-22.52.08:182][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.06-22.52.08:199][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.06-22.52.08:210][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0774750/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.06-22.52.08:220][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.06-22.52.08:220][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.06-22.52.08:221][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-22.52.08:221][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-22.52.08:574][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-22.52.08:896][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.06-22.52.08:934][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.06-22.52.08:934][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.06-22.52.08:934][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.06-22.52.08:934][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.06-22.52.08:934][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.06-22.52.08:961][  0]LogNetVersion: RapidPrototype5 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1973499734)
+[2017.12.06-22.52.09:109][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2017.12.06-22.52.09:608][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.072203 seconds
+[2017.12.06-22.52.09:613][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.06-22.52.09:614][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.06-22.52.09:614][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.06-22.52.09:667][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.06-22.52.12:161][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.06-22.52.12:202][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.06-22.52.12:726][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:726][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.06-22.52.12:726][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.06-22.52.12:730][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:731][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.06-22.52.12:731][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.06-22.52.12:761][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.06-22.52.12:761][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Web/BeamEmitter.uasset.
+[2017.12.06-22.52.12:762][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Web/BeamEmitter : Can't find file for asset. /Game/ThirdPersonBP/Web/M_web
+[2017.12.06-22.52.12:762][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.06-22.52.12:762][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Web/BeamEmitter.uasset.
+[2017.12.06-22.52.12:762][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Web/BeamEmitter : Can't find file for asset. /Game/ThirdPersonBP/Web/M_web
+[2017.12.06-22.52.12:762][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:763][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.06-22.52.12:763][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:765][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_0
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_0
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_1
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_1
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:780][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.06-22.52.12:780][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_152
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_152
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_153
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_153
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_182
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_182
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:781][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:781][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.06-22.52.12:782][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:782][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.06-22.52.12:783][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Component class is not set for 'GrappleCable' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'ThirdPersonCharacter'.
+[2017.12.06-22.52.12:791][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:792][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:792][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:792][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:792][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set SolverIterations : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:792][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:792][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.06-22.52.12:844][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.06-22.52.12:844][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.06-22.52.12:844][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:845][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:846][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:846][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:846][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:846][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:846][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.06-22.52.12:853][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.06-22.52.12:853][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.06-22.52.12:853][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  SolverIterations  could not be found
+[2017.12.06-22.52.12:853][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.06-22.52.12:854][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.06-22.52.12:854][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.06-22.52.12:858][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0010.74] Compile of ThirdPersonCharacter failed. 19 Fatal Issue(s) 14 Warning(s) [in 75 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.06-22.52.12:858][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:858][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:858][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.06-22.52.12:858][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.06-22.52.12:861][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.06-22.52.12:861][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Web/M_web.M_web Referenced by ParticleModuleRequired_0
+[2017.12.06-22.52.12:861][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading NULL.
+[2017.12.06-22.52.12:861][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Web/M_web.M_web Referenced by ParticleModuleRequired_0
+[2017.12.06-22.52.13:074][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.06-22.52.13:483][  0]SourceControl: Source control is disabled
+[2017.12.06-22.52.13:484][  0]SourceControl: Source control is disabled
+[2017.12.06-22.52.13:535][  0]SourceControl: Source control is disabled
+[2017.12.06-22.52.13:587][  0]SourceControl: Source control is disabled
+[2017.12.06-22.52.14:390][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.06-22.52.14:675][  0]LogOcInput: OculusInput pre-init called
+[2017.12.06-22.52.14:936][  0]LogEngine: Initializing Engine...
+[2017.12.06-22.52.14:938][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.06-22.52.15:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.06-22.52.15:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.06-22.52.15:261][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.06-22.52.15:272][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-22.52.15:281][  0]LogInit: FAudioDevice initialized.
+[2017.12.06-22.52.15:438][  0]LogDerivedDataCache: Saved boot cache 0.16s 79MB C:/Users/u0774750/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.06-22.52.15:451][  0]LogInit: Texture streaming: Enabled
+[2017.12.06-22.52.15:553][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.06-22.52.15:677][  0]LogInit: Transaction tracking system initialized
+[2017.12.06-22.52.16:000][  0]BlueprintLog: New page: Editor Load
+[2017.12.06-22.52.17:003][  0]LocalizationService: Localization service is disabled
+[2017.12.06-22.52.17:724][  0]LogConsoleResponse: Display: 
+[2017.12.06-22.52.17:891][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.06-22.52.17:891][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.06-22.52.17:891][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.06-22.52.18:712][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' took 0.01s
+[2017.12.06-22.52.19:066][  0]SourceControl: Source control is disabled
+[2017.12.06-22.52.19:067][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-22.52.19:067][  0]LightingResults: New page: Lighting Build
+[2017.12.06-22.52.19:108][  0]MapCheck: New page: Map Check
+[2017.12.06-22.52.19:108][  0]LightingResults: New page: Lighting Build
+[2017.12.06-22.52.19:282][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-22.52.19:290][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-22.52.19:301][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-22.52.19:351][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.932ms to complete.
+[2017.12.06-22.52.19:351][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.284
+[2017.12.06-22.52.19:418][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-22.52.19:419][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-22.52.19:493][  0]LogCollectionManager: Loaded 0 collections in 0.001667 seconds
+[2017.12.06-22.52.19:574][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Collections/' took 0.01s
+[2017.12.06-22.52.19:574][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Developers/u0774750/Collections/' took 0.01s
+[2017.12.06-22.52.19:574][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Collections/' took 0.01s
+[2017.12.06-22.52.19:574][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.06-22.52.19:583][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2367 classes and 521 folders.
+[2017.12.06-22.52.19:645][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.12.06-22.52.19:682][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.06-22.52.19:725][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.06-22.52.19:763][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-22.52.19:765][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.06-22.52.19:772][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.06-22.52.19:860][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-22.52.20:032][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.06-22.52.20:033][  0]LogLoad: (Engine Initialization) Total time: 17.92 seconds
+[2017.12.06-22.52.20:033][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.06-22.52.20:033][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.06-22.52.20:033][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.06-22.52.20:072][  0]LogAssetRegistry: Asset discovery search completed in 10.9851 seconds
+[2017.12.06-22.52.20:073][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.06-22.52.20:073][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000033 seconds (updated 0 objects)
+[2017.12.06-22.52.20:076][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.06-22.52.20:133][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-22.52.21:074][ 96]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-22.52.25:162][580]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' took 5.11s
+[2017.12.06-22.52.26:713][763]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-22.52.26:843][763]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.06-22.52.27:050][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-22.52.27:271][763]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-22.52.27:326][763]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2017.12.06-22.52.27:898][763]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.06-22.52.28:139][763]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.06-22.52.28:227][763]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2017.12.06-22.52.49:865][692]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-22.52.51:895][882]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.06-22.54.38:070][821]LogEditorTransaction: Undo Modify Component(s)
+[2017.12.06-22.54.38:164][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.06-22.54.58:963][720]BlueprintLog: New page: Compile Alien
+[2017.12.06-22.56.57:277][113]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.06-22.56.59:936][397]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.06-22.56.59:937][397]LogMaterial: Warning: Material /Game/TrevorsShit/Models/ShippingContainers/blinn1_2.blinn1_2 needed to have new flag set bUsedWithStaticLighting !
+[2017.12.06-22.56.59:951][397]LogMaterial: Missing cached shader map for material blinn1_2, compiling. 
+[2017.12.06-22.57.00:000][397]MapCheck: Warning: blinn1_2 Material /Game/TrevorsShit/Models/ShippingContainers/blinn1_2.blinn1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2017.12.06-22.57.01:137][397]LogSavePackage: Save=31.74ms
+[2017.12.06-22.57.01:137][397]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienDE763986465AD1BB48F03784BB72ECA4.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien.uasset'
+[2017.12.06-22.57.01:143][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien.uasset
+[2017.12.06-22.57.01:194][397]LogSavePackage: Save=24.87ms
+[2017.12.06-22.57.01:194][397]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBP72E8D9B34F55CB4BC4256D854323ED88.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset'
+[2017.12.06-22.57.01:198][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset
+[2017.12.06-22.57.01:199][397]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-22.57.01:200][397]LightingResults: New page: Lighting Build
+[2017.12.06-22.57.01:201][397]LoadErrors: New page: Loading map: TestLevel.umap
+[2017.12.06-22.57.01:202][397]MapCheck: New page: Map Check
+[2017.12.06-22.57.01:202][397]LightingResults: New page: Lighting Build
+[2017.12.06-22.57.01:249][397]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-22.57.01:337][397]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-22.57.01:418][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.16ms to complete.
+[2017.12.06-22.57.01:418][397]LogFileHelpers: Loading map 'TestLevel' took 0.220
+[2017.12.06-22.57.51:933][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.12.06-22.57.53:351][378]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-22.58.00:605][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.12.06-22.58.00:702][249]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-22.58.02:795][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.12.06-22.58.02:846][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-22.58.03:422][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.12.06-22.58.03:509][554]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-22.58.19:297][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (conex344)
+[2017.12.06-22.58.21:303][650]Cmd: EDIT COPY
+[2017.12.06-22.58.21:484][671]Cmd: EDIT PASTE
+[2017.12.06-22.58.59:962][213]Cmd: DELETE
+[2017.12.06-22.58.59:962][213]Cmd: ACTOR DELETE
+[2017.12.06-22.58.59:969][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.06-22.58.59:984][213]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.12.06-22.59.45:119][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2017.12.06-22.59.45:177][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-22.59.48:815][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2017.12.06-22.59.54:538][ 80]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.12.06-23.00.09:931][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-23.00.14:411][401]Cmd: TRANSACTION UNDO
+[2017.12.06-23.00.14:411][401]LogEditorTransaction: Undo Move Actors
+[2017.12.06-23.00.29:731][201]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.06-23.00.54:234][115]Cmd: DELETE
+[2017.12.06-23.00.54:234][115]Cmd: ACTOR DELETE
+[2017.12.06-23.00.54:241][115]LogEditorActor: Deleted Actor: Brush
+[2017.12.06-23.00.54:257][115]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.12.06-23.01.03:351][198]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.06-23.01.03:582][198]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.06-23.02.35:530][ 25]BlueprintLog: New page: Compile AlienAnimBP
+[2017.12.06-23.04.07:520][957]LogSlate: Took 0.004720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.06-23.04.13:150][419]BlueprintLog: New page: Compile AlienAnimBP
+[2017.12.06-23.04.13:153][419]LogClass: Warning: Type mismatch in CharacterSpeed of AlienAnimBP_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2017.12.06-23.07.58:329][392]Cmd: TRANSACTION UNDO
+[2017.12.06-23.07.58:329][392]LogEditorTransaction: Undo Create Reroute Node
+[2017.12.06-23.07.58:436][392]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.06-23.09.24:538][912]LogSavePackage: Save=416.35ms
+[2017.12.06-23.09.24:538][912]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/TestLevel_Auto172A086F04B618D037840BBB03E6364E4.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/TestLevel_Auto1.umap'
+[2017.12.06-23.09.24:541][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/TestLevel_Auto1.umap
+[2017.12.06-23.09.24:546][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrevorsShit/TestLevel' took 0.452
+[2017.12.06-23.09.24:546][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.452
+[2017.12.06-23.09.24:548][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TrevorsShit/Character/AlienAnimBP] ([1] browsable assets)...
+[2017.12.06-23.09.24:563][912]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP]
+[2017.12.06-23.09.24:563][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrevorsShit/Character/AlienAnimBP]
+[2017.12.06-23.09.24:600][912]LogSavePackage: Save=26.08ms
+[2017.12.06-23.09.24:600][912]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBP_Auto195DEFA144576791E403FF1A39323359C.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/AlienAnimBP_Auto1.uasset'
+[2017.12.06-23.09.24:602][912]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/AlienAnimBP_Auto1.uasset
+[2017.12.06-23.09.24:602][912]LogFileHelpers: Auto-saving content packages took 0.055
+[2017.12.06-23.12.17:899][634]Cmd: TRANSACTION UNDO
+[2017.12.06-23.12.17:899][634]LogEditorTransaction: Undo Move Node
+[2017.12.06-23.12.18:024][634]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.06-23.15.35:465][452]LogSavePackage: Save=15.50ms
+[2017.12.06-23.15.35:465][452]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/idleE45E7B74415A18B664B1F8A97309C224.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Animations/idle.uasset'
+[2017.12.06-23.15.35:470][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Animations/idle.uasset
+[2017.12.06-23.15.39:884][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.12.06-23.15.39:933][928]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.12.06-23.15.40:287][928]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.06-23.17.09:076][113]Cmd: TRANSACTION UNDO
+[2017.12.06-23.17.09:077][113]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2017.12.06-23.17.09:187][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.12.06-23.17.30:055][150]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2017.12.06-23.17.30:105][150]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2017.12.06-23.17.30:433][150]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.12.06-23.17.54:727][ 38]LogSavePackage: Save=14.14ms
+[2017.12.06-23.17.54:727][ 38]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/GeoSkelRealUVs_Skeleton_BlendSpaB9FF5E654440EE6CB1B332B4480C71B4.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/GeoSkelRealUVs_Skeleton_BlendSpace1D.uasset'
+[2017.12.06-23.17.54:730][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/GeoSkelRealUVs_Skeleton_BlendSpace1D.uasset
+[2017.12.06-23.18.02:030][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2017.12.06-23.18.02:312][696]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2017.12.06-23.18.23:847][512]LogSavePackage: Save=14.74ms
+[2017.12.06-23.18.23:847][512]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/IdleWalkA1F7D22B4F3380161FFD00B3BE71D366.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/IdleWalk.uasset'
+[2017.12.06-23.18.23:851][512]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/IdleWalk.uasset
+[2017.12.06-23.18.29:210][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2017.12.06-23.18.29:477][ 56]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2017.12.06-23.18.38:824][661]BlueprintLog: New page: Compile AlienAnimBP
+[2017.12.06-23.18.38:836][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.AlienAnimBP_C_0
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.38:836][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.AlienAnimBP_C_0
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.18.38:836][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.AlienAnimBP_C_0
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.18.38:836][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.38:836][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.18.38:836][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.18.38:961][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.38:962][661]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.18.38:962][661]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.18.39:013][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.39:013][662]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.18.39:013][662]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.18.39:032][663]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.39:032][663]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.18.39:032][663]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.18.39:047][664]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.39:047][664]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.18.39:047][664]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.18.39:070][665]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.18.39:070][665]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_27:PersistentLevel.Actor_5.DebugSkelMeshComponent_11.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.19.46:047][736]LogSavePackage: Save=43.76ms
+[2017.12.06-23.19.46:047][736]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBP4730B7834C78752B9B9EA8B7AFE9A5F0.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset'
+[2017.12.06-23.19.46:051][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset
+[2017.12.06-23.20.05:453][585]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-23.20.07:321][585]LogSavePackage: Save=471.48ms
+[2017.12.06-23.20.07:321][585]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/TestLevelEF5FB7A54672A279DD6AB7A8C157D248.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap'
+[2017.12.06-23.20.07:325][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap
+[2017.12.06-23.20.07:369][585]LogFileHelpers: Saving map 'TestLevel' took 0.624
+[2017.12.06-23.20.07:371][585]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-23.20.07:371][585]LightingResults: New page: Lighting Build
+[2017.12.06-23.20.07:372][585]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2017.12.06-23.20.07:377][585]MapCheck: New page: Map Check
+[2017.12.06-23.20.07:377][585]LightingResults: New page: Lighting Build
+[2017.12.06-23.20.07:406][585]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-23.20.07:465][585]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-23.20.07:535][585]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.89ms to complete.
+[2017.12.06-23.20.07:536][585]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.167
+[2017.12.06-23.20.20:980][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.20.21:040][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.20.21:040][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.21.05:243][705]LogSavePackage: Save=213.26ms
+[2017.12.06-23.21.05:243][705]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonExampleMap06B23CE849C07302D55342B9212B3D3E.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.06-23.21.05:247][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2017.12.06-23.21.05:294][705]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.377
+[2017.12.06-23.21.11:071][148]LogSlate: Took 0.008509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.12.06-23.21.15:811][579]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.21.15:834][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.21.15:835][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.21.22:269][930]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.21.22:294][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.21.22:295][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.21.23:278][930]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2017, 9:21:23 AM)
+[2017.12.06-23.21.23:278][930]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.06-23.21.23:300][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021300s)
+[2017.12.06-23.21.23:301][930]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-23.21.23:301][930]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2017.12.06-23.21.23:302][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023070s)
+[2017.12.06-23.21.23:356][930]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-23.21.23:364][930]LogInit: FAudioDevice initialized.
+[2017.12.06-23.21.23:407][930]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.06-23.21.23:410][930]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.06-16.21.23
+[2017.12.06-23.21.23:411][930]LogWorld: Bringing up level for play took: 0.004158
+[2017.12.06-23.21.23:413][930]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.06-23.21.23:460][930]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.12.06-23.21.23:464][930]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.087
+[2017.12.06-23.21.23:464][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.21.25:271][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.21.25:307][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.21.56:398][573]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.21.56:423][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.21.56:424][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.21.56:424][573]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2017, 9:21:56 AM)
+[2017.12.06-23.21.56:424][573]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.06-23.21.56:447][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022354s)
+[2017.12.06-23.21.56:448][573]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-23.21.56:448][573]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2017.12.06-23.21.56:449][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024117s)
+[2017.12.06-23.21.56:477][573]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-23.21.56:484][573]LogInit: FAudioDevice initialized.
+[2017.12.06-23.21.56:520][573]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.06-23.21.56:523][573]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.06-16.21.56
+[2017.12.06-23.21.56:523][573]LogWorld: Bringing up level for play took: 0.002878
+[2017.12.06-23.21.56:524][573]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.06-23.21.56:526][573]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.851
+[2017.12.06-23.21.56:527][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.22.00:621][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.22.00:654][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.27.57:221][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.06-23.27.57:918][167]LogEditorViewport: Clicking on Actor (LMB): Alien_C (Alien)
+[2017.12.06-23.27.58:419][202]Cmd: DELETE
+[2017.12.06-23.27.58:420][202]Cmd: ACTOR DELETE
+[2017.12.06-23.27.58:422][202]LogEditorActor: Deleted Actor: Alien_C
+[2017.12.06-23.27.58:466][202]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2017.12.06-23.28.05:181][648]LogSavePackage: Save=165.10ms
+[2017.12.06-23.28.05:182][648]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/ThirdPersonExampleMap95E67B3F4E7E7D158FA85AB4ED85C1BC.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.06-23.28.05:186][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2017.12.06-23.28.05:232][648]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.313
+[2017.12.06-23.28.05:264][648]LogSavePackage: Save=12.23ms
+[2017.12.06-23.28.05:264][648]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/PlayerGameMode14ADB45745DA56452E4665B449A8DB8B.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/PlayerGameMode.uasset'
+[2017.12.06-23.28.05:267][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/PlayerGameMode.uasset
+[2017.12.06-23.28.24:717][571]LogMetaData: Removing '/Game/TrevorsShit/Character/Alien1.Alien1_C' ref from Metadata '/Game/TrevorsShit/Character/ThirdPersonCharacter.PackageMetaData'
+[2017.12.06-23.28.24:717][571]LogMetaData: Removing '/Game/TrevorsShit/Character/Alien1.SKEL_Alien1_C' ref from Metadata '/Game/TrevorsShit/Character/ThirdPersonCharacter.PackageMetaData'
+[2017.12.06-23.28.24:834][571]LogSavePackage: Save=68.55ms
+[2017.12.06-23.28.24:834][571]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Alien11FD2AF55431FC56A3C3992AF60B48057.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien1.uasset'
+[2017.12.06-23.28.24:838][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien1.uasset
+[2017.12.06-23.28.35:961][867]LogSavePackage: Save=10.45ms
+[2017.12.06-23.28.35:961][867]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/PlayerGameModeB4DB471D4C5D2472E7706D99955DF0F6.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/PlayerGameMode.uasset'
+[2017.12.06-23.28.35:965][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/PlayerGameMode.uasset
+[2017.12.06-23.28.35:989][867]LogSavePackage: Save=6.07ms
+[2017.12.06-23.28.35:989][867]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienB6EA9EA94FCBEFA2AACA45BC640F69BC.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien.uasset'
+[2017.12.06-23.28.35:993][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien.uasset
+[2017.12.06-23.28.54:765][  8]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.12.06-23.28.54:770][  8]Candidate modules for hot reload:
+[2017.12.06-23.28.54:771][  8]  RapidPrototype5
+[2017.12.06-23.28.54:771][  8]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe RapidPrototype5 -ModuleWithSuffix RapidPrototype5 9370 Win64 Development -editorrecompile -canskiplink "C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/RapidPrototype5.uproject" ]
+[2017.12.06-23.28.54:781][  8]Warning: Starting HotReload took  0.0s.
+[2017.12.06-23.29.02:593][708]CompilerResultsLog: New page: Compilation - Dec 6, 2017, 9:29:02 AM
+[2017.12.06-23.29.02:593][708]CompilerResultsLog: Creating makefile for hot reloading RapidPrototype5 (changes to target files)
+[2017.12.06-23.29.02:593][708]CompilerResultsLog: Compiling game modules for hot reload
+[2017.12.06-23.29.02:593][708]CompilerResultsLog: Performing full C++ include scan (no include cache file)
+[2017.12.06-23.29.02:593][708]CompilerResultsLog: Parsing headers for RapidPrototype5Editor
+[2017.12.06-23.29.02:593][708]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\u0774750\Desktop\Growth\RapidPrototype5\RapidPrototype5\RapidPrototype5.uproject" "C:\Users\u0774750\Desktop\Growth\RapidPrototype5\RapidPrototype5\Intermediate\Build\Win64\RapidPrototype5Editor\Development\RapidPrototype5Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.12.06-23.29.02:594][708]LogMainFrame: MainFrame: Module compiling took 7.829 seconds
+[2017.12.06-23.29.02:594][708]Warning: HotReload failed, recompile failed
+[2017.12.06-23.29.13:389][678]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton GeoSkelRealUVs_Skeleton, removing AnimBP from actor.
+[2017.12.06-23.29.13:389][678]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton GeoSkelRealUVs_Skeleton, removing AnimBP from actor.
+[2017.12.06-23.29.13:390][678]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton GeoSkelRealUVs_Skeleton, removing AnimBP from actor.
+[2017.12.06-23.29.13:390][678]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton GeoSkelRealUVs_Skeleton, removing AnimBP from actor.
+[2017.12.06-23.29.14:244][732]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.06-23.29.24:319][396]BlueprintLog: New page: Compile Alien1
+[2017.12.06-23.29.27:415][611]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.29.27:448][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.27:449][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.29.27:449][611]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2017, 9:29:27 AM)
+[2017.12.06-23.29.27:449][611]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.06-23.29.27:467][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017853s)
+[2017.12.06-23.29.27:468][611]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-23.29.27:469][611]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2017.12.06-23.29.27:469][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019689s)
+[2017.12.06-23.29.27:495][611]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-23.29.27:503][611]LogInit: FAudioDevice initialized.
+[2017.12.06-23.29.27:543][611]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.06-23.29.27:545][611]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.06-16.29.27
+[2017.12.06-23.29.27:546][611]LogWorld: Bringing up level for play took: 0.001644
+[2017.12.06-23.29.27:546][611]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.06-23.29.27:548][611]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.174
+[2017.12.06-23.29.27:549][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.29:730][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.29:766][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.33:947][193]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.12.06-23.29.39:444][749]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.29.39:467][749]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.39:468][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.29.39:468][749]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2017, 9:29:39 AM)
+[2017.12.06-23.29.39:468][749]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.06-23.29.39:488][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019320s)
+[2017.12.06-23.29.39:488][749]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-23.29.39:489][749]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2017.12.06-23.29.39:489][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021169s)
+[2017.12.06-23.29.39:517][749]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-23.29.39:524][749]LogInit: FAudioDevice initialized.
+[2017.12.06-23.29.39:558][749]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.06-23.29.39:559][749]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.06-16.29.39
+[2017.12.06-23.29.39:560][749]LogWorld: Bringing up level for play took: 0.001668
+[2017.12.06-23.29.39:561][749]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.06-23.29.39:563][749]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.189
+[2017.12.06-23.29.39:563][749]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.41:147][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.41:185][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.29.57:674][127]BlueprintLog: New page: Compile Alien1
+[2017.12.06-23.30.00:806][389]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-23.30.00:834][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.30.00:835][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-23.30.00:835][389]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2017, 9:30:00 AM)
+[2017.12.06-23.30.00:835][389]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.06-23.30.00:855][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019643s)
+[2017.12.06-23.30.00:856][389]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.06-23.30.00:856][389]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2017.12.06-23.30.00:856][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021398s)
+[2017.12.06-23.30.00:883][389]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.06-23.30.00:891][389]LogInit: FAudioDevice initialized.
+[2017.12.06-23.30.00:925][389]LogLoad: Game class is 'PlayerGameMode_C'
+[2017.12.06-23.30.00:927][389]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.06-16.30.00
+[2017.12.06-23.30.00:927][389]LogWorld: Bringing up level for play took: 0.001577
+[2017.12.06-23.30.00:928][389]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.12.06-23.30.00:931][389]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.444
+[2017.12.06-23.30.00:931][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.30.06:997][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.30.07:031][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.06-23.35.24:688][300]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2017.12.06-23.35.24:688][300]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.35.24:689][300]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.35.24:689][300]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.35.24:989][300]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.12.06-23.35.25:263][300]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.35.25:263][300]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.35.25:264][300]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.35.25:426][301]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.35.25:426][301]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.35.25:427][301]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.35.25:449][302]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.35.25:450][302]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.35.25:450][302]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.35.25:468][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.35.25:469][303]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.35.25:469][303]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.06-23.35.25:486][304]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.06-23.35.25:487][304]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13.AlienAnimBP_C_24
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.06-23.38.15:748][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.033
+[2017.12.06-23.38.15:750][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/PlayerGameMode] ([1] browsable assets)...
+[2017.12.06-23.38.15:750][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/PlayerGameMode]
+[2017.12.06-23.38.15:781][951]LogSavePackage: Save=14.32ms
+[2017.12.06-23.38.15:781][951]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/PlayerGameMode_Auto21E28320043A114E6593700803B2B5178.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/PlayerGameMode_Auto2.uasset'
+[2017.12.06-23.38.15:783][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/PlayerGameMode_Auto2.uasset
+[2017.12.06-23.38.15:784][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TrevorsShit/Character/Alien1] ([1] browsable assets)...
+[2017.12.06-23.38.15:802][951]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TrevorsShit/Character/Alien1.Alien1]
+[2017.12.06-23.38.15:802][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrevorsShit/Character/Alien1]
+[2017.12.06-23.38.15:898][951]LogSavePackage: Save=80.70ms
+[2017.12.06-23.38.15:898][951]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Alien1_Auto2E218610442DB6511BAEA7A85C84CC063.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/Alien1_Auto2.uasset'
+[2017.12.06-23.38.15:901][951]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/Alien1_Auto2.uasset
+[2017.12.06-23.38.15:901][951]LogFileHelpers: Auto-saving content packages took 0.152
+[2017.12.06-23.40.00:821][387]Cmd: TRANSACTION UNDO
+[2017.12.06-23.40.00:821][387]LogEditorTransaction: Undo Move Nodes
+[2017.12.06-23.40.00:921][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_6.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2017.12.06-23.48.17:867][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.021
+[2017.12.06-23.48.17:868][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TrevorsShit/Character/AlienAnimBP] ([1] browsable assets)...
+[2017.12.06-23.48.17:868][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrevorsShit/Character/AlienAnimBP]
+[2017.12.06-23.48.17:921][852]LogSavePackage: Save=35.93ms
+[2017.12.06-23.48.17:921][852]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBP_Auto38C129A454B97F10B986A1CA48441DB3D.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/AlienAnimBP_Auto3.uasset'
+[2017.12.06-23.48.17:923][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/AlienAnimBP_Auto3.uasset
+[2017.12.06-23.48.17:924][852]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TrevorsShit/Character/Alien1] ([1] browsable assets)...
+[2017.12.06-23.48.17:941][852]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TrevorsShit/Character/Alien1.Alien1]
+[2017.12.06-23.48.17:941][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrevorsShit/Character/Alien1]
+[2017.12.06-23.48.18:030][852]LogSavePackage: Save=77.47ms
+[2017.12.06-23.48.18:030][852]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Alien1_Auto3D4DF387D4CC2DDBC37AB8589573EB04D.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/Alien1_Auto3.uasset'
+[2017.12.06-23.48.18:032][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/Character/Alien1_Auto3.uasset
+[2017.12.06-23.48.18:033][852]LogFileHelpers: Auto-saving content packages took 0.165
+[2017.12.06-23.52.22:828][852]LogSavePackage: Save=14.08ms
+[2017.12.06-23.52.22:829][852]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/PlayerGameModeC84DB3844E28167C5BBF9F9C5E43AB75.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/PlayerGameMode.uasset'
+[2017.12.06-23.52.22:836][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/PlayerGameMode.uasset
+[2017.12.06-23.52.22:909][852]LogSavePackage: Save=60.38ms
+[2017.12.06-23.52.22:909][852]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Alien141CCD97C45C59DB6AFCDCCAFC41DF1AE.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien1.uasset'
+[2017.12.06-23.52.22:915][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/Alien1.uasset
+[2017.12.06-23.52.22:979][852]LogSavePackage: Save=38.16ms
+[2017.12.06-23.52.22:979][852]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBPC123D41741B2077247A41DBB88796D9F.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset'
+[2017.12.06-23.52.22:985][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset
+[2017.12.06-23.52.23:086][852]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-23.52.23:086][852]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-23.52.23:341][853]Cmd: QUIT_EDITOR
+[2017.12.06-23.52.23:559][853]LogExit: Preparing to exit.
+[2017.12.06-23.52.23:754][853]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' was aborted.
+[2017.12.06-23.52.23:857][853]LogExit: Editor shut down
+[2017.12.06-23.52.23:861][853]LogExit: Transaction tracking system shut down
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' was aborted.
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.06-23.52.24:085][853]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.06-23.52.24:257][853]LogExit: Object subsystem successfully closed.
+[2017.12.06-23.52.24:288][853]LogD3D11RHI: Shutdown
+[2017.12.06-23.52.24:289][853]LogD3D11RHI: CleanupD3DDevice
+[2017.12.06-23.52.24:296][853]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (562)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module AnimationEditor (560)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (558)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module SkeletonEditor (554)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (552)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.06-23.52.24:311][853]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.06-23.52.24:311][853]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.06-23.52.24:317][853]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Collections/' was aborted.
+[2017.12.06-23.52.24:317][853]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Developers/u0774750/Collections/' was aborted.
+[2017.12.06-23.52.24:317][853]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Collections/' was aborted.
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.06-23.52.24:317][853]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.06-23.52.24:968][853]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.06-23.52.24:969][853]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.06-23.52.25:034][853]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.06-23.52.25:045][853]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.06-23.52.25:046][853]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.06-23.52.25:047][853]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.06-23.52.25:124][853]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.06-23.52.25:125][853]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.06-23.52.25:126][853]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.06-23.52.25:126][853]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.06-23.52.25:126][853]LogModuleManager: Shutting down and abandoning module RapidPrototype5 (272)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2017.12.06-23.52.25:127][853]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Binaries/Win64' was aborted.
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.06-23.52.25:127][853]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.06-23.52.25:228][853]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.06-23.52.25:329][853]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.06-23.52.25:329][853]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.06-23.52.25:329][853]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.06-23.52.25:329][853]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.06-23.52.25:329][853]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.06-23.52.25:329][853]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.06-23.52.25:330][853]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.06-23.52.25:330][853]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.06-23.52.25:330][853]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.06-23.52.25:330][853]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.06-23.52.25:331][853]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.06-23.52.25:331][853]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.06-23.52.25:331][853]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.06-23.52.25:331][853]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.06-23.52.25:331][853]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.06-23.52.25:331][853]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.06-23.52.25:337][853]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.06-23.52.25:337][853]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.06-23.52.25:337][853]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.06-23.52.25:337][853]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.06-23.52.25:337][853]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.06-23.52.25:337][853]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.06-23.52.25:338][853]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.06-23.52.25:341][853]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.06-23.52.25:347][853]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.06-23.52.25:347][853]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.06-23.52.25:347][853]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.06-23.52.25:347][853]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.06-23.52.25:347][853]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.06-23.52.25:347][853]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.06-23.52.25:348][853]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.06-23.52.25:348][853]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.06-23.52.25:348][853]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.06-23.52.25:354][853]LogDerivedDataCache: Shutdown
+[2017.12.06-23.52.25:354][853]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.06-23.52.25:354][853]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.06-23.52.25:354][853]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.06-23.52.25:354][853]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.06-23.52.25:354][853]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.06-23.52.25:355][853]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.06-23.52.25:356][853]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.06-23.52.25:356][853]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.06-23.52.25:356][853]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B791F4D-4EE0-7064-B608-A29B89B9D234%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=b6b2c45e42762d15fd81d0ae0fa79f4e%7C0f77b9be7d7347419dc77317cf2e50cf%7C0c3f5c3c-62f8-4c42-88a0-be96360781b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.06-23.52.25:378][853]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.06-23.52.25:379][853]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.06-23.52.25:379][853]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.06-23.52.25:380][853]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.06-23.52.25:380][853]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.06-23.52.25:380][853]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.06-23.52.25:380][853]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.06-23.52.25:380][853]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.06-23.52.25:384][853]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.06-23.52.25:387][853]LogExit: Exiting.
+[2017.12.06-23.52.25:392][853]Log file closed, 12/06/17 16:52:25

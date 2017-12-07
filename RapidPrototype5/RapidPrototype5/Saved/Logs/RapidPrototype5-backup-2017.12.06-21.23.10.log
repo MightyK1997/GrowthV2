@@ -1,0 +1,1369 @@
+﻿Log file open, 12/06/17 17:02:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RapidPrototype5
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1485128831) SRandInit(1485128831).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165368
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Binaries/Win64/UE4Editor-RapidPrototype5.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.07-00.02.04:984][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.07-00.02.04:984][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.07-00.02.05:000][  0]LogInit: Computer: eae-d-059
+[2017.12.07-00.02.05:000][  0]LogInit: User: u0774750
+[2017.12.07-00.02.05:000][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.07-00.02.05:000][  0]LogInit: High frequency timer resolution =3.320313 MHz
+[2017.12.07-00.02.05:000][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.07-00.02.05:000][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.07-00.02.05:000][  0]LogMemory: Process Physical Memory: 272.88 MB used, 272.88 MB peak
+[2017.12.07-00.02.05:000][  0]LogMemory: Process Virtual Memory: 271.86 MB used, 271.86 MB peak
+[2017.12.07-00.02.05:000][  0]LogMemory: Physical Memory: 6213.87 MB used,  26491.84 MB free, 32705.71 MB total
+[2017.12.07-00.02.05:000][  0]LogMemory: Virtual Memory: 646.33 MB used,  26491.84 MB free, 134217728.00 MB total
+[2017.12.07-00.02.05:131][  0]LogInit: Using OS detected language (en-US).
+[2017.12.07-00.02.05:131][  0]LogInit: Using OS detected locale (en-US).
+[2017.12.07-00.02.05:133][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.07-00.02.05:551][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.07-00.02.05:779][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.07-00.02.05:816][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.12.07-00.02.05:816][  0]LogD3D11RHI:       8096/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.07-00.02.05:817][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.07-00.02.05:817][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.07-00.02.05:818][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.07-00.02.05:824][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.07-00.02.05:824][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.07-00.02.05:824][  0]LogWindows: EnumDisplayDevices:
+[2017.12.07-00.02.05:824][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.12.07-00.02.05:824][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.12.07-00.02.05:824][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.07-00.02.05:824][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.12.07-00.02.05:824][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.07-00.02.05:824][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.12.07-00.02.05:824][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.07-00.02.05:824][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.07-00.02.05:824][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2017.12.07-00.02.05:855][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.07-00.02.05:910][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.07-00.02.06:002][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Intermediate/Shaders/WorkingDirectory/13128/).
+[2017.12.07-00.02.06:002][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0774750/AppData/Local/Temp/UnrealShaderWorkingDir/8E3CEE0944C73491A203658FDFCF041A/'.
+[2017.12.07-00.02.06:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.07-00.02.06:861][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.07-00.02.06:908][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.07-00.02.06:954][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.07-00.02.07:000][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.07-00.02.07:048][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.07-00.02.07:096][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.07-00.02.07:143][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.07-00.02.07:190][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.07-00.02.07:231][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.07-00.02.07:277][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.07-00.02.07:322][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.07-00.02.07:367][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.07-00.02.07:413][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.07-00.02.07:463][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.07-00.02.07:554][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.07-00.02.07:554][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.07-00.02.07:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.07-00.02.07:638][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.07-00.02.07:730][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.07-00.02.07:757][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.07-00.02.07:803][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.07-00.02.07:852][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.07-00.02.07:902][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.07-00.02.07:947][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.07-00.02.07:947][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.07-00.02.08:381][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.07-00.02.08:458][  0]LogDerivedDataCache: Loaded boot cache 0.08s 90MB C:/Users/u0774750/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.07-00.02.08:458][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0774750/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.07-00.02.08:458][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.07-00.02.08:458][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.07-00.02.08:458][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.07-00.02.08:458][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.07-00.02.08:475][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.07-00.02.08:487][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0774750/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.07-00.02.08:498][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.07-00.02.08:499][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.07-00.02.08:499][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.07-00.02.08:499][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.07-00.02.08:861][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.07-00.02.09:172][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.07-00.02.09:208][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.07-00.02.09:208][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.07-00.02.09:208][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.07-00.02.09:208][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.07-00.02.09:208][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.07-00.02.09:237][  0]LogNetVersion: RapidPrototype5 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1973499734)
+[2017.12.07-00.02.09:386][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2017.12.07-00.02.09:868][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.082224 seconds
+[2017.12.07-00.02.09:873][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.07-00.02.09:873][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.07-00.02.09:873][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.07-00.02.09:919][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.07-00.02.12:290][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.07-00.02.12:331][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.07-00.02.12:896][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.12:896][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.07-00.02.12:896][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.07-00.02.12:899][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.12:899][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.07-00.02.12:899][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.07-00.02.13:098][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.07-00.02.13:099][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Web/BeamEmitter.uasset.
+[2017.12.07-00.02.13:099][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Web/BeamEmitter : Can't find file for asset. /Game/ThirdPersonBP/Web/M_web
+[2017.12.07-00.02.13:099][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.07-00.02.13:099][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Web/BeamEmitter.uasset.
+[2017.12.07-00.02.13:099][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Web/BeamEmitter : Can't find file for asset. /Game/ThirdPersonBP/Web/M_web
+[2017.12.07-00.02.13:100][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:100][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset.
+[2017.12.07-00.02.13:100][  0]LoadErrors: Error: /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Script/CableComponent
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:103][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:117][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:117][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_0
+[2017.12.07-00.02.13:117][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:117][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_0
+[2017.12.07-00.02.13:117][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:117][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_1
+[2017.12.07-00.02.13:117][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:117][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_1
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableSet_42
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_152
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_152
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_153
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_153
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_182
+[2017.12.07-00.02.13:118][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:118][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by K2Node_VariableGet_182
+[2017.12.07-00.02.13:119][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:119][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.07-00.02.13:119][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:119][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.07-00.02.13:119][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:119][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:119][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:119][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.07-00.02.13:119][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:119][  0]LoadErrors: Failed to load /Script/CableComponent.CableComponent Referenced by SCS_Node_1
+[2017.12.07-00.02.13:121][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Component class is not set for 'GrappleCable' - this component will not be instanced, and additional warnings or errors may occur when compiling Blueprint 'ThirdPersonCharacter'.
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Set SolverIterations : 'SolverIterations' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:130][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Get : 'GrappleCable' variable not found. Base class was probably changed. /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "SolverIterations" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Set SolverIterations
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.07-00.02.13:181][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  GrappleCable  and  Target : Object Reference is not compatible with Scene Component Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "GrappleCable" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get GrappleCable
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:182][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Can't connect pins  Target  and  GrappleCable : Scene Component Object Reference is not compatible with Object Reference.
+[2017.12.07-00.02.13:190][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.07-00.02.13:190][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.07-00.02.13:190][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  SolverIterations  could not be found
+[2017.12.07-00.02.13:190][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.07-00.02.13:190][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.07-00.02.13:190][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  GrappleCable  could not be found
+[2017.12.07-00.02.13:197][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0010.92] Compile of ThirdPersonCharacter failed. 19 Fatal Issue(s) 14 Warning(s) [in 76 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.12.07-00.02.13:197][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:197][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:197][  0]LogLinker: Warning: Can't find file '/Script/CableComponent'
+[2017.12.07-00.02.13:197][  0]LogLinker: Warning: Can't find file for asset '/Script/CableComponent' while loading NULL.
+[2017.12.07-00.02.13:200][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Web/M_web'
+[2017.12.07-00.02.13:200][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Web/M_web.M_web Referenced by ParticleModuleRequired_0
+[2017.12.07-00.02.13:200][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Web/M_web' while loading NULL.
+[2017.12.07-00.02.13:200][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Web/M_web.M_web Referenced by ParticleModuleRequired_0
+[2017.12.07-00.02.13:465][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.07-00.02.13:875][  0]SourceControl: Source control is disabled
+[2017.12.07-00.02.13:876][  0]SourceControl: Source control is disabled
+[2017.12.07-00.02.13:927][  0]SourceControl: Source control is disabled
+[2017.12.07-00.02.13:979][  0]SourceControl: Source control is disabled
+[2017.12.07-00.02.14:793][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.07-00.02.15:039][  0]LogOcInput: OculusInput pre-init called
+[2017.12.07-00.02.15:291][  0]LogEngine: Initializing Engine...
+[2017.12.07-00.02.15:293][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.07-00.02.15:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.07-00.02.15:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.07-00.02.15:609][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.07-00.02.15:619][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.07-00.02.15:628][  0]LogInit: FAudioDevice initialized.
+[2017.12.07-00.02.15:729][  0]LogDerivedDataCache: Saved boot cache 0.10s 79MB C:/Users/u0774750/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.07-00.02.15:744][  0]LogInit: Texture streaming: Enabled
+[2017.12.07-00.02.15:848][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.07-00.02.16:001][  0]LogInit: Transaction tracking system initialized
+[2017.12.07-00.02.16:298][  0]BlueprintLog: New page: Editor Load
+[2017.12.07-00.02.17:204][  0]LocalizationService: Localization service is disabled
+[2017.12.07-00.02.17:884][  0]LogConsoleResponse: Display: 
+[2017.12.07-00.02.18:055][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.07-00.02.18:056][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.07-00.02.18:056][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.07-00.02.18:289][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' took 0.02s
+[2017.12.07-00.02.19:175][  0]SourceControl: Source control is disabled
+[2017.12.07-00.02.19:175][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-00.02.19:175][  0]LightingResults: New page: Lighting Build
+[2017.12.07-00.02.19:213][  0]MapCheck: New page: Map Check
+[2017.12.07-00.02.19:213][  0]LightingResults: New page: Lighting Build
+[2017.12.07-00.02.19:749][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.07-00.02.19:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-00.02.19:767][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-00.02.19:820][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.209ms to complete.
+[2017.12.07-00.02.19:820][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.646
+[2017.12.07-00.02.19:893][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-00.02.19:893][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-00.02.20:014][  0]LogCollectionManager: Loaded 0 collections in 0.002296 seconds
+[2017.12.07-00.02.20:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Collections/' took 0.01s
+[2017.12.07-00.02.20:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Developers/u0774750/Collections/' took 0.01s
+[2017.12.07-00.02.20:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Collections/' took 0.01s
+[2017.12.07-00.02.20:113][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.07-00.02.20:123][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2367 classes and 521 folders.
+[2017.12.07-00.02.20:186][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.12.07-00.02.20:528][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.12.07-00.02.20:577][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.12.07-00.02.20:994][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.12.07-00.02.20:995][  0]LogLoad: (Engine Initialization) Total time: 18.73 seconds
+[2017.12.07-00.02.20:995][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.07-00.02.20:995][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.07-00.02.20:995][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.07-00.02.21:041][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.07-00.02.21:057][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.07-00.02.21:059][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.07-00.02.21:069][  0]LogSlate: Took 0.005509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.07-00.02.21:244][  0]LogSlate: Took 0.004605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-00.02.21:280][  1]LogRenderer: Reallocating scene render targets to support 1200x556 Format 10 NumSamples 1 (Frame:1).
+[2017.12.07-00.02.21:294][  1]LogAssetRegistry: Asset discovery search completed in 11.9440 seconds
+[2017.12.07-00.02.21:297][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.07-00.02.21:297][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000106 seconds (updated 0 objects)
+[2017.12.07-00.02.21:375][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.AlienAnimBP_C_0
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.21:375][  2]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.AlienAnimBP_C_0
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.02.21:375][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.AlienAnimBP_C_0
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.02.26:413][ 34]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' took 5.40s
+[2017.12.07-00.02.53:086][671]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-00.02.53:187][671]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.12.07-00.02.53:471][671]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.12.07-00.02.53:471][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.53:471][671]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.02.53:471][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.02.53:738][671]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.07-00.02.53:813][671]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2017.12.07-00.02.54:437][671]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.12.07-00.02.54:710][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.54:711][671]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.02.54:711][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.02.54:724][671]LogSlate: Took 0.004683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.07-00.02.54:801][671]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2017.12.07-00.02.54:893][672]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.54:893][672]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.02.54:893][672]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.02.54:902][672]LogSlate: Took 0.005044 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.07-00.02.54:922][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.54:922][673]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.02.54:922][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.02.54:936][674]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.54:936][674]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.02.54:936][674]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.02.54:957][675]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.02.54:957][675]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.AlienAnimBP_C_2
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.05.22:761][230]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2017.12.07-00.05.22:766][230]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.22:893][230]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.22:911][230]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.22:966][230]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.05.26:369][385]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.07-00.05.26:369][385]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2017.12.07-00.05.26:369][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.12.07-00.05.26:369][385]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.12.07-00.05.26:369][385]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.05.40:632][954]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.41:799][982]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.12.07-00.05.41:799][982]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2017.12.07-00.05.41:799][982]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.12.07-00.05.41:799][982]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.12.07-00.05.41:799][982]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.05.58:389][379]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.58:452][379]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.58:509][379]LogMaterial: Missing cached shader map for material E, compiling. 
+[2017.12.07-00.05.58:582][379]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy E, compiling. 
+[2017.12.07-00.05.59:403][379]TextureStreamingBuild: Display: Compiling optional shaders took 0.829 seconds.
+[2017.12.07-00.06.05:843][ 37]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.05:957][ 37]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.05:982][ 37]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.06:026][ 37]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.06.07:892][ 70]MaterialEditorStats: Base pass shader: 49 instructions
+[2017.12.07-00.06.07:892][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 76 instructions
+[2017.12.07-00.06.07:892][ 70]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.07:892][ 70]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.07:892][ 70]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.06.20:852][353]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.20:871][353]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.07-00.06.24:060][402]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.24:087][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.07-00.06.26:131][435]MaterialEditorStats: Base pass shader: 49 instructions
+[2017.12.07-00.06.26:131][435]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 76 instructions
+[2017.12.07-00.06.26:131][435]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.26:131][435]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.26:131][435]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.06.29:898][505]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.29:922][505]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.06.31:748][537]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.06.31:748][537]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.06.31:748][537]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.31:748][537]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.31:748][537]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.06.38:300][676]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.40:202][762]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.06.40:203][762]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.06.40:203][762]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.40:203][762]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.40:203][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.06.41:532][838]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.41:553][838]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.06.43:732][924]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.45:620][997]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.06.45:620][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.06.45:620][997]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.45:620][997]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.45:620][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.06.47:989][121]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.49:857][200]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.06.49:857][200]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.06.49:857][200]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.49:857][200]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.49:857][200]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.06.57:106][601]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.06.58:970][665]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.06.58:970][665]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.06.58:970][665]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.06.58:970][665]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.06.58:970][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.07.02:364][827]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.04:242][892]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.07.04:242][892]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.07.04:242][892]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.07.04:242][892]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.07.04:242][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.07.08:451][ 75]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.10:250][102]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.07.10:250][102]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.07.10:250][102]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.07.10:250][102]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.07.10:250][102]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.07.18:157][443]LogMaterialEditor: Saving and Compiling material lambert2
+[2017.12.07-00.07.18:602][443]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.18:670][443]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.18:715][443]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.18:786][443]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2017.12.07-00.07.20:229][443]TextureStreamingBuild: Display: Compiling optional shaders took 1.451 seconds.
+[2017.12.07-00.07.22:804][443]LogSavePackage: Save=17.54ms
+[2017.12.07-00.07.22:804][443]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/lambert29E2764904C7B88623A0097B914668D44.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset'
+[2017.12.07-00.07.22:811][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset
+[2017.12.07-00.07.26:568][729]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.07-00.07.26:569][729]LogMaterial: Warning: Material /Game/TrevorsShit/Models/ShippingContainers/blinn1_2.blinn1_2 needed to have new flag set bUsedWithStaticLighting !
+[2017.12.07-00.07.26:584][729]LogMaterial: Missing cached shader map for material blinn1_2, compiling. 
+[2017.12.07-00.07.26:622][729]MapCheck: Warning: blinn1_2 Material /Game/TrevorsShit/Models/ShippingContainers/blinn1_2.blinn1_2 was missing the usage flag bUsedWithStaticLighting. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2017.12.07-00.07.27:827][729]LogSavePackage: Save=50.90ms
+[2017.12.07-00.07.27:827][729]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBP9CCBD37A46BF427DF5EEC09BD2B38E3B.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset'
+[2017.12.07-00.07.27:831][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset
+[2017.12.07-00.07.27:876][729]LogSavePackage: Save=15.76ms
+[2017.12.07-00.07.27:876][729]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/E57F0EA364D2C8883D3DE388F467A5E6C.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/E.uasset'
+[2017.12.07-00.07.27:881][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/E.uasset
+[2017.12.07-00.07.27:882][729]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-00.07.27:882][729]LightingResults: New page: Lighting Build
+[2017.12.07-00.07.27:883][729]LoadErrors: New page: Loading map: TestLevel.umap
+[2017.12.07-00.07.27:884][729]MapCheck: New page: Map Check
+[2017.12.07-00.07.27:884][729]LightingResults: New page: Lighting Build
+[2017.12.07-00.07.28:041][729]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-00.07.28:110][729]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-00.07.28:188][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.302ms to complete.
+[2017.12.07-00.07.28:188][729]LogFileHelpers: Loading map 'TestLevel' took 0.307
+[2017.12.07-00.07.30:759][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bridge_pCylinder2)
+[2017.12.07-00.07.31:138][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.07-00.07.50:135][846]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.50:235][846]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.50:256][846]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.07.50:302][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.07.50:312][846]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.07-00.07.53:094][940]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.07.53:094][940]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.07.53:094][940]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.07.53:095][940]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.07.53:095][940]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.08.01:451][227]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.01:451][227]LogMaterial: Warning: /Engine/Transient.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.07-00.08.01:451][227]LogMaterial: 	Light function materials must be opaque.
+[2017.12.07-00.08.01:459][227]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.01:460][227]LogMaterial: Warning: /Engine/Transient.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.07-00.08.01:460][227]LogMaterial: 	Light function materials must be opaque.
+[2017.12.07-00.08.01:466][227]MaterialEditorStats: Error: [SM5] Light function materials must be opaque.
+[2017.12.07-00.08.09:442][539]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.09:442][539]LogMaterial: Warning: /Engine/Transient.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.07-00.08.09:442][539]LogMaterial: 	Light function materials must be opaque.
+[2017.12.07-00.08.12:357][650]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.12:358][650]LogMaterial: Warning: /Engine/Transient.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.07-00.08.12:358][650]LogMaterial: 	Light function materials must be opaque.
+[2017.12.07-00.08.12:364][650]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.08.16:185][789]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.16:186][789]LogMaterial: Warning: /Engine/Transient.lambert2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.07-00.08.16:186][789]LogMaterial: 	Light function materials must be opaque.
+[2017.12.07-00.08.16:188][789]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.08.24:479][124]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.24:508][124]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.26:646][204]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.08.26:646][204]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.08.26:646][204]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.08.26:646][204]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.08.26:646][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.08.32:705][578]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.34:625][650]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.08.34:625][650]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.08.34:625][650]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.08.34:625][650]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.08.34:625][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.08.38:651][888]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.40:587][979]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.08.40:587][979]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.08.40:587][979]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.08.40:587][979]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.08.40:587][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.08.47:053][374]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.48:982][453]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.08.48:982][453]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.08.48:982][453]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.08.48:982][453]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.08.48:982][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.08.55:169][603]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.08.56:972][630]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.08.56:973][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.08.56:973][630]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.08.56:973][630]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.08.56:973][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.08.59:816][682]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.09.01:602][709]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.09.01:602][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.09.01:602][709]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.09.01:602][709]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.09.01:602][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.09.04:212][842]LogMaterialEditor: Applying material lambert2
+[2017.12.07-00.09.04:669][842]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.09.04:732][842]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.09.04:781][842]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.09.04:852][842]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2017.12.07-00.09.06:234][842]TextureStreamingBuild: Display: Compiling optional shaders took 1.389 seconds.
+[2017.12.07-00.09.20:111][221]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.07-00.09.20:211][221]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.07-00.09.20:232][221]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.07-00.09.20:276][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.09.20:281][221]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.07-00.09.22:721][318]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.09.22:722][318]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.09.22:722][318]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.09.22:722][318]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.09.22:722][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.09.29:967][670]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.07-00.09.31:892][733]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.09.31:892][733]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.09.31:892][733]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.09.31:892][733]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.09.31:892][733]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.09.34:076][832]LogMaterialEditor: Saving and Compiling material lambert2
+[2017.12.07-00.09.34:524][832]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.07-00.09.34:587][832]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.09.34:638][832]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.09.34:713][832]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2017.12.07-00.09.36:095][832]TextureStreamingBuild: Display: Compiling optional shaders took 1.389 seconds.
+[2017.12.07-00.09.38:686][832]LogSavePackage: Save=15.64ms
+[2017.12.07-00.09.38:686][832]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/lambert239B1FE7B439DDD9D107EDEB4BB874503.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset'
+[2017.12.07-00.09.38:689][832]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset
+[2017.12.07-00.09.50:235][ 62]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.09.50:333][ 62]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.09.50:355][ 62]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.09.50:400][ 62]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.09.50:406][ 62]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.07-00.09.52:337][133]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.09.52:337][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.09.52:337][133]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.09.52:337][133]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.09.52:337][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.09.59:865][439]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.09.59:887][439]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.10.01:796][499]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.10.01:796][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.10.01:796][499]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.10.01:796][499]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.10.01:796][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.10.04:703][602]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.10.04:729][602]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.10.06:581][649]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.10.06:581][649]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.10.06:581][649]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.10.06:581][649]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.10.06:581][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.10.32:054][691]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.10.32:072][691]LogMaterialEditor: Saving and Compiling material lambert2
+[2017.12.07-00.10.32:671][691]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.12.07-00.10.32:764][691]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.10.32:815][691]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.10.32:884][691]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2017.12.07-00.10.34:311][691]TextureStreamingBuild: Display: Compiling optional shaders took 1.433 seconds.
+[2017.12.07-00.10.36:919][691]LogSavePackage: Save=11.19ms
+[2017.12.07-00.10.36:919][691]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/lambert2CAC3BDE64BBCE96D547832B09C9D587E.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset'
+[2017.12.07-00.10.36:922][691]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset
+[2017.12.07-00.10.47:057][615]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.10.47:156][615]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.10.47:178][615]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.10.47:223][615]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.10.47:229][615]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.07-00.10.49:087][642]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.10.49:087][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.10.49:087][642]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.10.49:088][642]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.10.49:088][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.10.53:149][738]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.10.53:168][738]LogMaterialEditor: Saving and Compiling material lambert2
+[2017.12.07-00.10.53:792][738]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.10.53:888][738]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.10.53:936][738]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.10.53:999][738]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2017.12.07-00.10.55:448][738]TextureStreamingBuild: Display: Compiling optional shaders took 1.456 seconds.
+[2017.12.07-00.10.58:064][738]LogSavePackage: Save=15.80ms
+[2017.12.07-00.10.58:064][738]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/lambert203874AB64D378D7A4DB75D8012D33DA1.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset'
+[2017.12.07-00.10.58:067][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset
+[2017.12.07-00.11.06:097][916]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.11.06:115][916]LogMaterialEditor: Saving and Compiling material lambert2
+[2017.12.07-00.11.06:738][916]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.12.07-00.11.06:835][916]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.11.06:881][916]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.12.07-00.11.06:947][916]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2017.12.07-00.11.08:353][916]TextureStreamingBuild: Display: Compiling optional shaders took 1.413 seconds.
+[2017.12.07-00.11.11:017][916]LogSavePackage: Save=16.55ms
+[2017.12.07-00.11.11:017][916]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/lambert2257EE66542CFED8F6A969F99F6433CAD.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset'
+[2017.12.07-00.11.11:020][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/lambert2.uasset
+[2017.12.07-00.11.17:583][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bridge_pCylinder2)
+[2017.12.07-00.11.18:230][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bridge_pCylinder2)
+[2017.12.07-00.11.26:432][871]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.26:536][871]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.26:561][871]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.26:610][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.12.07-00.11.26:616][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.11.28:534][904]MaterialEditorStats: Base pass shader: 49 instructions
+[2017.12.07-00.11.28:534][904]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 70 instructions
+[2017.12.07-00.11.28:534][904]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.11.28:534][904]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.11.28:534][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.11.35:580][ 64]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.35:598][ 64]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (1 / 1)
+[2017.12.07-00.11.37:305][ 96]MaterialEditorStats: Base pass shader: 44 instructions
+[2017.12.07-00.11.37:305][ 96]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 65 instructions
+[2017.12.07-00.11.37:305][ 96]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.12.07-00.11.37:305][ 96]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.11.41:599][174]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.41:623][174]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.11.43:412][201]MaterialEditorStats: Base pass shader: 49 instructions
+[2017.12.07-00.11.43:412][201]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 70 instructions
+[2017.12.07-00.11.43:412][201]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.11.43:412][201]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.11.43:412][201]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.11.48:805][372]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.48:825][372]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.11.50:533][436]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.11.50:567][436]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.11.52:510][492]MaterialEditorStats: Base pass shader: 49 instructions
+[2017.12.07-00.11.52:510][492]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 70 instructions
+[2017.12.07-00.11.52:510][492]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.11.52:510][492]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.11.52:510][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.12.10:983][115]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.11:004][115]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.12.12:803][168]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.12.12:803][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 71 instructions
+[2017.12.07-00.12.12:803][168]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.12.12:803][168]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.12:803][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.12.21:752][471]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.23:520][520]MaterialEditorStats: Base pass shader: 45 instructions
+[2017.12.07-00.12.23:521][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 66 instructions
+[2017.12.07-00.12.23:521][520]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.12.07-00.12.23:521][520]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.23:620][524]LogEditorTransaction: Undo Material Editor: Delete
+[2017.12.07-00.12.23:645][524]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.23:667][524]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.23:710][524]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.12.23:729][524]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.07-00.12.26:385][577]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.12.26:385][577]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 71 instructions
+[2017.12.07-00.12.26:385][577]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.12.26:385][577]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.26:385][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.12.28:343][627]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.28:367][627]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.12.07-00.12.30:188][655]MaterialEditorStats: Base pass shader: 50 instructions
+[2017.12.07-00.12.30:188][655]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 77 instructions
+[2017.12.07-00.12.30:188][655]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.12.30:188][655]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.30:188][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.12.37:556][821]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.37:577][821]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.12.39:522][897]MaterialEditorStats: Base pass shader: 47 instructions
+[2017.12.07-00.12.39:522][897]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 74 instructions
+[2017.12.07-00.12.39:522][897]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.12.39:522][897]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.39:522][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.12.49:420][375]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.49:441][375]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.12.51:327][455]MaterialEditorStats: Base pass shader: 51 instructions
+[2017.12.07-00.12.51:327][455]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 78 instructions
+[2017.12.07-00.12.51:327][455]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.12.51:327][455]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.51:327][455]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.12.56:504][707]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.12.56:530][707]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.12.58:457][789]MaterialEditorStats: Base pass shader: 51 instructions
+[2017.12.07-00.12.58:457][789]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 78 instructions
+[2017.12.07-00.12.58:457][789]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.12.58:457][789]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.12.58:457][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.13.03:766][ 72]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.03:787][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.13.05:689][133]MaterialEditorStats: Base pass shader: 51 instructions
+[2017.12.07-00.13.05:689][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 78 instructions
+[2017.12.07-00.13.05:689][133]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.13.05:689][133]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.13.05:689][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.13.07:256][205]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.07:279][205]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.13.07:684][218]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.07:710][218]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.13.08:280][235]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.08:305][235]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.12.07-00.13.09:784][293]LogMaterialEditor: Saving and Compiling material blinn3
+[2017.12.07-00.13.10:394][293]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.10:461][293]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.10:517][293]LogMaterial: Missing cached shader map for material blinn3, compiling. 
+[2017.12.07-00.13.10:588][293]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy blinn3, compiling. 
+[2017.12.07-00.13.11:958][293]TextureStreamingBuild: Display: Compiling optional shaders took 1.376 seconds.
+[2017.12.07-00.13.14:560][293]LogSavePackage: Save=13.46ms
+[2017.12.07-00.13.14:560][293]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/blinn338A4A0C444C3B0E312F2969B4469311F.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/blinn3.uasset'
+[2017.12.07-00.13.14:567][293]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Models/Bridge/blinn3.uasset
+[2017.12.07-00.13.14:582][293]MaterialEditorStats: Base pass shader: 51 instructions
+[2017.12.07-00.13.14:582][293]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 78 instructions
+[2017.12.07-00.13.14:582][293]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.12.07-00.13.14:582][293]MaterialEditorStats: Texture samplers: 3/16
+[2017.12.07-00.13.14:582][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.07-00.13.32:804][ 69]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.07-00.13.32:832][ 69]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-00.13.32:832][ 69]LightingResults: New page: Lighting Build
+[2017.12.07-00.13.32:833][ 69]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2017.12.07-00.13.32:836][ 69]MapCheck: New page: Map Check
+[2017.12.07-00.13.32:836][ 69]LightingResults: New page: Lighting Build
+[2017.12.07-00.13.32:948][ 69]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-00.13.32:998][ 69]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-00.13.33:058][ 69]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.52ms to complete.
+[2017.12.07-00.13.33:058][ 69]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.228
+[2017.12.07-00.13.36:419][440]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.07-00.13.36:465][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.07-00.13.36:465][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.07-00.13.46:379][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.12.07-00.13.46:379][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.13.46:379][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.13.46:379][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.13.46:609][ 85]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.12.07-00.13.46:820][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.13.46:820][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.13.46:820][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.13.46:941][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.13.46:941][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.13.46:941][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.13.46:958][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.13.46:958][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.13.46:958][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.13.46:981][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.13.46:981][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-00.13.46:981][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-00.13.47:000][ 89]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-00.13.47:000][ 89]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_18:PersistentLevel.Actor_1.DebugSkelMeshComponent_2.AlienAnimBP_C_3
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.24.47:726][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.12.07-01.26.45:955][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.12.07-01.26.45:955][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-01.26.45:955][920]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.26.45:955][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-01.26.46:189][920]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.12.07-01.26.46:393][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-01.26.46:393][920]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.26.46:393][920]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-01.26.46:526][921]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-01.26.46:526][921]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.26.46:527][921]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-01.26.46:549][922]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-01.26.46:549][922]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.26.46:549][922]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-01.26.46:608][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-01.26.46:608][923]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.26.46:608][923]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:00FB
+[2017.12.07-01.26.46:664][924]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:006A
+[2017.12.07-01.26.46:664][924]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AlienAnimBP_C /Engine/Transient.World_31:PersistentLevel.Actor_2.DebugSkelMeshComponent_4.AlienAnimBP_C_4
+	Function /Game/TrevorsShit/Character/AlienAnimBP.AlienAnimBP_C:ExecuteUbergraph_AlienAnimBP:0098
+[2017.12.07-01.27.04:119][313]LogAIModule: Creating AISystem for world TestLevel
+[2017.12.07-01.27.05:466][313]LogSavePackage: Save=31.55ms
+[2017.12.07-01.27.05:466][313]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/AlienAnimBPA3C960FC441070959B2187980F15BC55.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset'
+[2017.12.07-01.27.05:472][313]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/Character/AlienAnimBP.uasset
+[2017.12.07-01.27.05:473][313]Cmd: MAP LOAD FILE="../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.07-01.27.05:474][313]LightingResults: New page: Lighting Build
+[2017.12.07-01.27.05:474][313]LoadErrors: New page: Loading map: TestLevel.umap
+[2017.12.07-01.27.05:480][313]MapCheck: New page: Map Check
+[2017.12.07-01.27.05:480][313]LightingResults: New page: Lighting Build
+[2017.12.07-01.27.05:648][313]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.07-01.27.05:701][313]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.07-01.27.05:760][313]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.325ms to complete.
+[2017.12.07-01.27.05:760][313]LogFileHelpers: Loading map 'TestLevel' took 0.287
+[2017.12.07-01.27.14:821][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bridge_pCylinder2)
+[2017.12.07-01.27.15:116][404]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.07-01.28.34:520][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bridge_pCylinder2)
+[2017.12.07-01.28.34:760][525]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.07-01.28.43:790][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fog_StaticMesh)
+[2017.12.07-01.28.45:034][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bridge_pCylinder2)
+[2017.12.07-01.28.45:257][661]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.07-01.28.48:951][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.12.07-01.37.05:172][348]LogSavePackage: Save=462.87ms
+[2017.12.07-01.37.05:172][348]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/TestLevel_Auto1949E3CB443254FA5E9831BB4BE86DD5F.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/TestLevel_Auto1.umap'
+[2017.12.07-01.37.05:175][348]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Autosaves/Game/TrevorsShit/TestLevel_Auto1.umap
+[2017.12.07-01.37.05:259][348]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrevorsShit/TestLevel' took 0.702
+[2017.12.07-01.37.05:260][348]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.702
+[2017.12.07-03.17.43:950][657]LogSavePackage: Save=420.41ms
+[2017.12.07-03.17.43:950][657]LogSavePackage: Moving '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/TestLevel20DD01BF490F942FA78D05A0E3F4071B.tmp' to '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap'
+[2017.12.07-03.17.43:956][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/TrevorsShit/TestLevel.umap
+[2017.12.07-03.17.43:994][657]LogFileHelpers: Saving map 'TestLevel' took 0.554
+[2017.12.07-03.17.46:551][789]LogUProjectInfo: Found projects:
+[2017.12.07-03.17.48:500][881]Cmd: CLOSE_SLATE_MAINFRAME
+[2017.12.07-03.17.48:820][882]Cmd: QUIT_EDITOR
+[2017.12.07-03.17.48:850][882]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-03.17.48:850][882]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.07-03.17.48:869][882]LogExit: Preparing to exit.
+[2017.12.07-03.17.49:650][882]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' was aborted.
+[2017.12.07-03.17.49:690][882]LogExit: Editor shut down
+[2017.12.07-03.17.49:693][882]LogExit: Transaction tracking system shut down
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../../../../Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/' was aborted.
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.07-03.17.49:846][882]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.07-03.17.49:936][882]LogExit: Object subsystem successfully closed.
+[2017.12.07-03.17.49:962][882]LogD3D11RHI: Shutdown
+[2017.12.07-03.17.49:962][882]LogD3D11RHI: CleanupD3DDevice
+[2017.12.07-03.17.49:966][882]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.07-03.17.49:978][882]LogModuleManager: Shutting down and abandoning module MaterialEditor (560)
+[2017.12.07-03.17.49:978][882]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (558)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module BlueprintGraph (556)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module SkeletonEditor (554)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (552)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module DesktopPlatform (548)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.07-03.17.49:979][882]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.07-03.17.49:979][882]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.07-03.17.49:980][882]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Collections/' was aborted.
+[2017.12.07-03.17.49:980][882]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Content/Developers/u0774750/Collections/' was aborted.
+[2017.12.07-03.17.49:980][882]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Saved/Collections/' was aborted.
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.07-03.17.49:980][882]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.07-03.17.49:981][882]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.07-03.17.50:947][882]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.07-03.17.50:948][882]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.07-03.17.51:011][882]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.07-03.17.51:018][882]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.07-03.17.51:019][882]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.07-03.17.51:019][882]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.07-03.17.51:019][882]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.12.07-03.17.51:057][882]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.12.07-03.17.51:058][882]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.12.07-03.17.51:059][882]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.12.07-03.17.51:059][882]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.12.07-03.17.51:059][882]LogModuleManager: Shutting down and abandoning module RapidPrototype5 (272)
+[2017.12.07-03.17.51:059][882]LogModuleManager: Shutting down and abandoning module HotReload (271)
+[2017.12.07-03.17.51:059][882]LogDirectoryWatcher: A directory notification for 'C:/Users/u0774750/Desktop/Growth/RapidPrototype5/RapidPrototype5/Binaries/Win64' was aborted.
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.07-03.17.51:060][882]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.07-03.17.51:161][882]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.07-03.17.51:262][882]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.07-03.17.51:262][882]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.07-03.17.51:262][882]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.07-03.17.51:262][882]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.07-03.17.51:262][882]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.07-03.17.51:262][882]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.07-03.17.51:263][882]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.07-03.17.51:270][882]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.07-03.17.51:272][882]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.07-03.17.51:273][882]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.07-03.17.51:311][882]LogDerivedDataCache: Shutdown
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.07-03.17.51:311][882]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.07-03.17.51:312][882]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.07-03.17.51:312][882]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.07-03.17.51:312][882]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.07-03.17.51:312][882]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.07-03.17.51:312][882]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77F60BE1-45AE-432F-6508-C3938355C277%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=b6b2c45e42762d15fd81d0ae0fa79f4e%7C0f77b9be7d7347419dc77317cf2e50cf%7C0c3f5c3c-62f8-4c42-88a0-be96360781b8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.07-03.17.51:341][882]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.07-03.17.51:342][882]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.07-03.17.51:343][882]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.07-03.17.51:343][882]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.07-03.17.51:343][882]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.07-03.17.51:343][882]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.07-03.17.51:343][882]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.07-03.17.51:343][882]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.07-03.17.51:344][882]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.07-03.17.51:344][882]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.07-03.17.51:344][882]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.07-03.17.51:344][882]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.07-03.17.51:344][882]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.07-03.17.51:346][882]LogExit: Exiting.
+[2017.12.07-03.17.51:366][882]Log file closed, 12/06/17 20:17:51
