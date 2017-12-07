@@ -12,12 +12,12 @@
 
 #include "Push.generated.h"
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class RAPIDPROTOTYPE5_API UPush : public UActorComponent
 {
 	GENERATED_BODY()
 
-public:	
+public:
 	// Sets default values for this component's properties
 	UPush();
 	ACharacter* OwnerCharacter;
@@ -26,6 +26,11 @@ public:
 	float countdownTime;
 	float distance = 100;
 	float force = 300;
+
+	UPROPERTY(EditAnywhere)
+		float MinForce = 500;
+	UPROPERTY(EditAnywhere)
+		float MaxForce = 1000;
 
 	//isExtended from BP
 	bool IsExtended;
@@ -37,10 +42,10 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;	
-	
+	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+
 	void Interacte();
 
 	void CalPushDistance();
@@ -48,6 +53,6 @@ public:
 	void EndPush();
 
 	UFUNCTION()
-	void PushBack(FVector origin, FVector target);
+		void PushBack(FVector origin, FVector target);
 
 };

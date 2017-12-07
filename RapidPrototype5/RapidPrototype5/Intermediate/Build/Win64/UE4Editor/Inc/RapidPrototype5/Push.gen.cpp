@@ -78,6 +78,24 @@ void EmptyLinkFunctionForGeneratedCodePush() {}
 				{ "ModuleRelativePath", "Push.h" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MaxForce_MetaData[] = {
+				{ "Category", "Push" },
+				{ "ModuleRelativePath", "Push.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_MaxForce = { UE4CodeGen_Private::EPropertyClass::Float, "MaxForce", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000001, 1, nullptr, STRUCT_OFFSET(UPush, MaxForce), METADATA_PARAMS(NewProp_MaxForce_MetaData, ARRAY_COUNT(NewProp_MaxForce_MetaData)) };
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MinForce_MetaData[] = {
+				{ "Category", "Push" },
+				{ "ModuleRelativePath", "Push.h" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_MinForce = { UE4CodeGen_Private::EPropertyClass::Float, "MinForce", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000001, 1, nullptr, STRUCT_OFFSET(UPush, MinForce), METADATA_PARAMS(NewProp_MinForce_MetaData, ARRAY_COUNT(NewProp_MinForce_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_MaxForce,
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_MinForce,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<UPush>::IsAbstract,
 			};
@@ -86,7 +104,7 @@ void EmptyLinkFunctionForGeneratedCodePush() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00B00080u,
 				FuncInfo, ARRAY_COUNT(FuncInfo),
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -96,7 +114,7 @@ void EmptyLinkFunctionForGeneratedCodePush() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UPush, 1616512786);
+	IMPLEMENT_CLASS(UPush, 3919514546);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UPush(Z_Construct_UClass_UPush, &UPush::StaticClass, TEXT("/Script/RapidPrototype5"), TEXT("UPush"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UPush);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
